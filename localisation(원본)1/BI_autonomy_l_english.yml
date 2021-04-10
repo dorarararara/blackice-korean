@@ -1,0 +1,9 @@
+﻿l_english:
+ autonomy_puppet:5 "Protectorate" #Puppet
+ autonomy_integrated_puppet:5 "Territory" #Integrated Puppet
+ autonomy_minor_warlord:5 "Warlord" 
+ ITA_autonomy_reichskommissariat:5 "Governorate"
+ ITA_autonomy_reichsprotectorate:5 "Commissionership"
+ diplomatic_effort_autonomy:0 "Diplomatic Efforts"
+ 
+
