@@ -29,13 +29,13 @@
  AC_project_0_target_decision:0 "[From.AC_GetProject0Factories]x민간공장  |  §Y[From.AC_GetConstructionTypeProject0]§!  x[From.AC_GetProjectState0]의 [From.AC_GetProject0Amount]"
  AC_project_0_target_decision_desc:0 "\n국가: [From.GetName]\n할당된 공장: [From.AC_GetProject0Factories]\n건설 순서: [From.AC_GetProject0Amount]\n\n이 결정을 선택하는 것은 건설 프로젝트를 취소하게 만들 것입니다.\n\n해당 주를 보려면 우클릭하세요."
 
- AC_project_1_text:0 "[?AC_project_assigned_factories^1]x민간공장 개수 |  §Y[AC_GetConstructionTypeProject1]§!  x[From.GetName]의 [?AC_project_build_amount^1]"
+ AC_project_1_text:0 "[?AC_project_assigned_factories^1]x민간공장  |  §Y[AC_GetConstructionTypeProject1]§!  x[From.GetName]의 [?AC_project_build_amount^1]"
  AC_project_1_desc:0 "\n총 건설 시간: [?AC_project_total_construction_duration_display^1] 일\n건설 속도 요인: x[?AC_project_construction_speed_display^1]\n\n해당 주를 보려면 우클릭하세요."
  
  AC_project_1_decision:0 "[AC_GetProjectText1]"
  AC_project_1_decision_desc:0 "[AC_GetProjectDesc1]"
  
- AC_project_1_target_decision:0 "[From.AC_GetProject1Factories]x민간공장 |  §Y[From.AC_GetConstructionTypeProject1]§!  x[From.AC_GetProjectState1]의 [From.AC_GetProject1Amount]"
+ AC_project_1_target_decision:0 "[From.AC_GetProject1Factories]x민간공장  |  §Y[From.AC_GetConstructionTypeProject1]§!  x[From.AC_GetProjectState1]의 [From.AC_GetProject1Amount]"
  AC_project_1_target_decision_desc:0 "\n국가: [From.GetName]\n할당된 공장: [From.AC_GetProject1Factories]\n건설 순서: [From.AC_GetProject1Amount]\n\n이 결정을 선택하는 것은 건설 프로젝트를 취소하게 만들 것입니다.\n\n해당 주를 보려면 우클릭하세요."
 
  AC_project_2_text:0 "[?AC_project_assigned_factories^2]x민간공장  |  §Y[AC_GetConstructionTypeProject2]§!  x[From.GetName]의 [?AC_project_build_amount^2]"
