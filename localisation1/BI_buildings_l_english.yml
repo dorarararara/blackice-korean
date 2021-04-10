@@ -1,0 +1,123 @@
+﻿l_english:
+#### BICE ####
+ pillbox:0 "Pillbox Defences"
+ pillbox_plural:0 "Pillbox Defences"
+ pillbox_desc:0 "This building inflicts an attack penalty of $VALUE|+%0$ for each Pillbox on the attacker in combat. Attacking from multiple directions will reduce Pillbox effect. Only 1 level of Pillbox is available.\n\nMax Level: §Y1§!\nBuilding Health: §Y1§!"
+ shipyard:0 "Shipyard"
+ shipyard_desc:0 "Each shipyard will §Greduce the production cost§! of: §YMilitary Surface Vessels§! and §YConvoys§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ shipyard_plural:0 "Shipyards"
+ shipyard_plural_desc:0 "Each shipyard will §Greduce the production cost§! of: §YMilitary Surface Vessels§! and §YConvoys§!."
+ subyard:0 "Submarine Yard"
+ subyard_desc:1 "Each submarine yard will §Greduce the production cost§! of: §YSubmarines§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ subyard_plural:0 "Submarine Yards"
+ subyard_plural_desc:0 "Each submarine yard will §Greduce the production cost§! of: §YSubmarines§!."
+ steel_refinery:0 "Steel Mill"
+ steel_refinery_desc:0 "This building provides the state with raw ore production.\n\nMax Level: §Y4§!\nBuilding Health: §Y5§!\nInfrastructure Effect: §GYes§!\nProduction in State:"
+ steel_refinery_plural:0 "Steel Mills"
+ steel_refinery_plural_desc:0 ""
+ synthetic_rubber_refinery:0 "Synthetic Rubber Refinery"
+ synthetic_rubber_refinery_desc:0 "This building provides the state with synthetic rubber production.\n\nMax Level: §Y4§!\nBuilding Health: §Y5§!\nInfrastructure Effect: §GYes§!\nProduction in State:"
+ synthetic_rubber_refinery_plural:0 "Synthetic Rubber Refineries"
+ synthetic_rubber_refinery_plural_desc:0 ""
+ tank_factory:0 "Armored Vehicle Factory"
+ tank_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YTankettes§!, §YTanks§!, §YTank Destroyers§!, §YSelf-propelled Artillery§!, §YSelf-propelled Guns§! and §YSelf-propelled Anti-Aircraft Artillery§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ tank_factory_plural:0 "Armored Vehicle Factories"
+ tank_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YTankettes§!, §YTanks§!, §YTank Destroyers§!, §YSelf-propelled Artillery§!, §YSelf-propelled Guns§! and §YSelf-propelled Anti-Aircraft Artillery§!."
+ truck_factory:0 "Vehicle Factory"
+ truck_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YMotorcycles§!, §YCars and Light Vehicles§!, §YTrucks§!, §YHalf-Tracks§!, §YTractors and Prime Movers§! and §YArmored Cars§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ truck_factory_plural:0 "Vehicle Factories"
+ truck_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YMotorcycles§!, §YCars and Light Vehicles§!, §YTrucks§!, §YHalf-Tracks§!, §YTractors and Prime Movers§! and §YArmored Cars§!."
+ artillery_factory:0 "Artillery Factory"
+ artillery_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YMortars§!, §YAnti-Tank Guns§!, §YArtillery Guns and Howitzers§!, §YAnti-Aircraft Artillery§!, §YRocket Artillery§! and §YRail-mounted Artillery§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ artillery_factory_plural:0 "Artillery Factories"
+ artillery_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YMortars§!, §YAnti-Tank Guns§!, §YArtillery Guns and Howitzers§!, §YAnti-Aircraft Artillery§!, §YRocket Artillery§! and §YRail-mounted Artillery§!."
+ smallarms_factory:0 "Small Arms and Equipment Factory"
+ smallarms_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YSmall Arms and Light Infantry Weapons§!, §YCommon and Special Infantry Equipment§! and §YSupport/HQ/Recon/Garrison Equipment§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ smallarms_factory_plural:0 "Small Arms and Equipment Factories"
+ smallarms_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YSmall Arms and Light Infantry Weapons§!, §YCommon and Special Infantry Equipment§! and §YSupport/HQ/Recon/Garrison Equipment§!. "
+ uniform_factory:0 "Uniform Factory"
+ uniform_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YUniform Equipment§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ uniform_factory_plural:0 "Uniform Factories"
+ uniform_factory_plural_desc:0 "Each factory will §Greduce the level of attrition§! of your §Yland forces§!."
+ Ltaircraft_factory:0 "Light Aircraft Factory"
+ Ltaircraft_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YSingle Engine Aircraft§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ Ltaircraft_factory_plural:0 "Light Aircraft Factories"
+ Ltaircraft_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YSingle Engine Aircraft§!."
+ Jetaircraft_factory:0 "Jet Aircraft Factory"
+ Jetaircraft_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YJet Fighters§! and §YJet Bombers§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ Jetaircraft_factory_plural:0 "Jet Aircraft Factories"
+ Jetaircraft_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YJet Fighters§! and §YJet Bombers§!."
+ Hvaircraft_factory:0 "Heavy Aircraft Factory"
+ Hvaircraft_factory_desc:0 "Each factory will §Greduce the production cost§! of: §YMulti Engine Aircraft§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!"
+ Hvaircraft_factory_plural:0 "Heavy Aircraft Factories"
+ Hvaircraft_factory_plural_desc:0 "Each factory will §Greduce the production cost§! of: §YMulti Engine Aircraft§!."
+ flakturm:0 "Flakturm"
+ flakturm_desc:0 "Flak towers (German: Flaktürme) were eight complexes of large, above-ground, anti-aircraft gun blockhouse towers constructed by Nazi Germany in the cities of Berlin (3), Hamburg (2), and Vienna (3) from 1940 onwards. Other cities that used flak towers included Stuttgart and Frankfurt. Smaller single-purpose flak towers were built at key outlying German strongpoints, such as at Angers in France, Helgoland in Germany and Trondheim, Norway. The towers were used by the Luftwaffe to defend against Allied air raids against these cities during World War II. They also served as air-raid shelters for tens of thousands of local civilians.\n\nMax Level: §Y1§!\nBuilding Health: §Y5§!\nDamage from Bombing: §R+10%§!\nState Air Defence: §G+1.8§!\nInfrastructure Effect: §RNo§!"  
+ modifier_production_speed_fuel_silo_factor:0 "§YFuel Silo§! construction speed" 
+ modifier_production_speed_supply_depot_factor:0 "§YSupply Depot§! construction speed" 
+ 
+ police_station:0 "Police Station"
+ police_station_desc:0 "This building provides the state with means to prevent Partisan activity.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §GYes§!"
+ production_speed_police_station_factor:0 "Police Station building speed"
+ supply_depot:0 "Supply Depot"
+ supply_depot_desc:0 "Decreases §GSupply Consumption§! in the §YState§! and its §!neighbors§! by §G10%§!.\n\nMax Level: §Y4§!\nBuilding Health: §Y1§!\nInfrastructure Effect: §GYes§!\n\n§LTakes up to 1 Week to activate§!\n§RCan only be built once per Strategic Region§!"
+ rubber_storage:0 "Rubber Storage"
+ aluminium_storage:0 "Aluminium Storage"
+ tungsten_storage:0 "Tungsten Storage"
+ steel_storage:0 "Steel Storage"
+ chromium_storage:0 "Chromium Storage" 
+ recruitment_building:0 "Recruitment Centre"
+ recruitment_building_desc:0 "This building provides the state with means to enforce conscription more reliably.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!"
+ modifier_production_speed_recruitment_building_factor:0 "Recruitment Centre building speed"
+ 
+ rubber_storage_desc:0 "This building provides the state with means to store rubber.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!\nStorage Capacity: §Y4000§!\nStorage Output: §Y6§!\n\n§LTakes up to 1 Week to activate§!"
+ aluminium_storage_desc:0 "This building provides the state with means to store aluminium.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!\nStorage Capacity: §Y4000§!\nStorage Output: §Y6§!\n\n§LTakes up to 1 Week to activate§!"
+ tungsten_storage_desc:0 "This building provides the state with means to store tungsten.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!\nStorage Capacity: §Y4000§!\nStorage Output: §Y6§!\n\n§LTakes up to 1 Week to activate§!"
+ steel_storage_desc:0 "This building provides the state with means to store steel.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!\nStorage Capacity: §Y4000§!\nStorage Output: §Y6§!\n\n§LTakes up to 1 Week to activate§!"
+ chromium_storage_desc:0 "This building provides the state with means to store chromium.\n\nMax Level: §Y1§!\nBuilding Health: §Y0§!\nInfrastructure Effect: §RNo§!\nStorage Capacity: §Y4000§!\nStorage Output: §Y6§!\n\n§LTakes up to 1 Week to activate§!"
+ research_centre:0 "Research Centre"
+ research_centre_desc:0 "  £trigger_no §RUnbuildable§! \nResearch Centres provide your Nation with £tech_mod §YResearch Slots§!. They can be gained by §YFocuses§! and §YEvents§!. Loosing a State with a §YResearch Centre§! will result in the loss of a £tech_mod §YResearch Slot§!. Capturing a foreign Research Centre does not provide you with additional slots, but a research bonus."
+ 
+ experimental_research_building:0 "Research Complex"
+ experimental_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ small_ship_research_building:0 "Research Complex"
+ small_ship_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ large_ship_research_building:0 "Research Complex"
+ large_ship_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ heavy_aircraft_research_building:0 "Research Complex"
+ heavy_aircraft_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ light_aircraft_research_building:0 "Research Complex"
+ light_aircraft_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ support_units_research_building:0 "Research Complex"
+ support_units_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ infantry_research_building:0 "Research Complex"
+ infantry_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ armor_research_building:0 "Research Complex"
+ armor_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ electronics_research_building:0 "Research Complex"
+ electronics_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ industry_research_building:0 "Research Complex"
+ industry_research_building_desc:0 "This does not have an effect right now and will be implemented in the future"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ### EOF ###
