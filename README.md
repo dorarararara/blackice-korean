@@ -2,12 +2,12 @@
 
 ***
 
-#콩지사항
+# 콩지사항
 -읎어요
 
-#[번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%#
+# [번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%#
 
-#번역 규칙
+# 번역 규칙
 - 번역 전 상단의 `Pull requests` 탭을 눌러 번역할 부분이 이미 다른 사람에 의해 번역 요청이 된 부분인지 확인해 주세요.
 
 - 반드시 큰따옴표(`""`)안의 내용만 번역합니다.
