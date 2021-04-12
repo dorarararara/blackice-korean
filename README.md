@@ -3,7 +3,7 @@
 ***
 
 # 콩지사항
--읎어요
+- 읎어요
 
 # [번역 방법](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%#)
 
