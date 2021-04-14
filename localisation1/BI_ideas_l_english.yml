@@ -335,40 +335,13 @@
  #Named Threats
  HUN_annex_AUS:0 "헝가리의 오스트리아 합병"
  HUN_annex_CZE:0 "오스트리아-헝가리의 체코슬로바키아 합병"
- HUN_puppet_CZE:0 "A오스트리아-헝가리의 체코슬로바키아 괴뢰화"
+ HUN_puppet_CZE:0 "오스트리아-헝가리의 체코슬로바키아 괴뢰화"
  AH_claims_trans:0 "오스트리아-헝가리의 트란실바니아 요구"
  AH_claims_adriatic:0 "오스트리아-헝가리의 아드리아해 해안 영유권 주장"
  AH_claims_venetia:0 "오스트리아-헝가리의 베네치아 영유권 주장"
  AH_claims_galicia:0 "오스트리아-헝가리의 갈리치아 영유권 주장"
  AH_claims_bucovina:0 "오스트리아-헝가리의 부코비나 영유권 주장"
  AH_claims_empire:0 "과거의 제국을 되찾은 오스트리아-헝가리"
-
- #Opinion Modifiers
- same_type_group:0 "민주주의"
- early_ENG_GER_relations:0 "좋은 영-독 관계"
- hun_pact_against_us:0 "헝가리 확장에 대한 협정"
- hun_worse_pact_against_us:0 "헝가리 확장에 대한 협약 체결"
- anti_hungary:0 "헝가리 확장에 대비"
-
- #country flag:
- HUN_expansion:0 "헝가리 확장에 피해자"
-
- #Anti-Hungarian Expansion idea
- HUN_anti_hungary:0 "크로아티아인 - 루마니아인 - 슬로바키아인 동맹 선언"
- HUN_anti_hungary_desc:0 "헝가리는 2차 세계대전 기간 동안 많은 땅들을 빠르게 되찾았고, 이로 인해 루마니아는 헝가리의 확장에 맞서 크로아티아, 슬로바키아와 동맹을 맺었습니다"
-
- #Scripted Effects
- increase_corruption:0 "부패도 1 증가"
- increase_corruption2:0 "부패도 2 증가"
- increase_corruption3:0 "부패도 3 증가"
- decrease_corruption:0 "부패도 1 감소"
- decrease_corruption2:0 "부패도 2 감소"
- decrease_corruption3:0 "부패도 3 감소"
- show_corruption:0 "부패 보고서"
-
- #Scripted Triggers
- free_trader:0 "자유무역주의자"
- protectionist:0 "보호무역주의자"
 
  #country flag:
  HUN_expansion:0 "헝가리 확장의 피해자"
