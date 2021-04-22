@@ -37,9 +37,9 @@
  ROM_axis_oil:0 "추축국을 위한 루마니아 원유 공급"
  GER_DAF:0 "독일노동전선"
  GER_DAF_desc:0 "이 단체는 독일의 모든 노동 조합을 대신해서 설립되었습니다. 목표는 사람들이 더 효율적으로 일할 수 있도록 더 많은 휴일을 주는 것이였습니다. 이 조직은 그들의 산하 단체인 Kdf(기쁨을 통한 힘)에서는 크루즈선도 있었습니다."
- mittelwerk_company:0 "중앙 작업 회사"
+ mittelwerk_company:0 "미텔베르크 컴패니"
  C_AG:0 "C. 로렌츠 AG"
- dehomag:0 "Dehomag(독일 홀레리트 기계회사)"
+ dehomag:0 "Dehomag"
  auergesellschaft:0 "아우러게셀샤프트"
  schuchardt_schutte:0 "슈카르트 & 슈테"
 
@@ -724,16 +724,16 @@ r:0 "공군 중시"
  ## Monarchy/Republic law set
  monarchy_republic:0 "군주제/공화제" ##maybe Government Form??##
  constitutional_monarchy:0 "군주제" ##maybe just Monarchy??##
- constitutional_monarchy_desc:0 "군주제는 일반적으로 왕조를 대표하는 가족이 국가의 국가정체성을 상징하고 그 수장인 군주가 통치권을 행사하는 정부의 한 형태입니다."
+ constitutional_monarchy_desc:0 "군주제는 일반적으로 왕조를 대표하는 왕족이 국가의 국가정체성을 상징하고 그 수장인 군주가 통치권을 행사하는 정부의 한 형태입니다."
  constitutional_monarchy2:0 "입헌군주제" ##maybe Unstable/Unfounded/Unconstitutional Monarchy??##
- constitutional_monarchy2_desc:0 "군주제는 일반적으로 왕조를 대표하는 가족이 국가의 국가정체성을 상징하고 그 수장인 군주가 통치권을 행사하는 정부의 한 형태입니다."
+ constitutional_monarchy2_desc:0 "군주제는 일반적으로 왕조를 대표하는 왕족이 국가의 국가정체성을 상징하고 그 수장인 군주가 통치권을 행사하는 정부의 한 형태입니다."
  constitutional_republic:0 "공화제" ##maybe just Republic??##
- constitutional_republic_desc:0 "A republic is a form of government in which the country is considered a \"public matter\", not the private concern or property of monarchs."
+ constitutional_republic_desc:0 "공화제는 국가를 군주들의 사적인 관심사나 재산이 아닌, \"공적인 문제\"로 간주하는 정부의 한 형태입니다."
  constitutional_republic2:0 "입헌 공화제" ##maybe Unstable/Unfounded/Unconstitutional Republic??##
- constitutional_republic2_desc:0 "A republic is a form of government in which the country is considered a \"public matter\", not the private concern or property of monarchs."
- crowned_republic:0 "Crowned Republic"
- crowned_republic_desc:0 "A form of government where the monarch (and family) is an official ceremonial entity with no political power."
- monarchy_republic_feature_unused:0 "Feature Currently Unused"
+ constitutional_republic2_desc:0 "공화제는 국가를 군주들의 사적인 관심사나 재산이 아닌, \"공적인 문제\"로 간주하는 정부의 한 형태입니다."
+ crowned_republic:0 "왕관을 쓴 공화국"
+ crowned_republic_desc:0 "군주(와 왕족)가 정치적 힘이 없는 형식적인 존재인 정부의 한 형태입니다."
+ monarchy_republic_feature_unused:0 "현재 사용되지 않는 기능"
  puppet_IC:0 "English Industry Control"
  autonomy_gain:0 "English Industry Control"
  quantity_branch_1:0 "Quantity Branch 1"
