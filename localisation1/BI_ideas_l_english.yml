@@ -754,8 +754,8 @@ r:0 "공군 중시"
  quality_branch_2_air:0 "분기 품질 2 : 공군"
  quality_branch_1_tank:0 "분기 품질 1 : 전차"
  quality_branch_2_tank:0 "분기 품질 2 : 전차"
- quantity_branch_1_tank:0 "분기 수량 1 : 전차"
- quantity_branch_2_tank:0 "분기 수량 2 : 전차"
+ quantity_branch_1_tank:0 "분기 품질 1 : 전차"
+ quantity_branch_2_tank:0 "분기 품질 2 : 전차"
 
  civil_war:0 "내전"
 
