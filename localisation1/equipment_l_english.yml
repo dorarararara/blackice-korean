@@ -716,7 +716,7 @@
   infantry_tank_equipment_axis:0 "보병전차"
   infantry_tank_equipment_axis_short:0 "보병전차"
   infantry_tank_equipment_axis_desc:0 "보병전차"
-  infantry_tank_equipment_axis_0_short:0 "4호  C"
+  infantry_tank_equipment_axis_0_short:0 "4호 전차 C"
   infantry_tank_equipment_axis_0_desc:0 "보병전차는 보병과 함께 이동하며 기관총과 포 사격으로 중화력을 지원할 수 있도록 설계된 느린 중무장 전차입니다."
   infantry_tank_equipment_axis_0:0 "보병전차 I"
   infantry_tank_equipment_axis_1_short:0 "4호 전차 E"
@@ -792,7 +792,7 @@
   heavy_tank_equipment_axis_2_short:0 "6호 전차 티거"
   heavy_tank_equipment_axis_2:0 "중전차 II"
   heavy_tank_equipment_axis_2_desc:0 "중전차는 적 전차와 방어진지를 파괴하기 위해 설계된 크게 강화된 괴물입니다."
-  heavy_tank_equipment_axis_3_short:0 "6호 전차 티거 B"
+  heavy_tank_equipment_axis_3_short:0 "6호 전차 티거 B형"
   heavy_tank_equipment_axis_3:0 "중전차 III"
   heavy_tank_equipment_axis_3_desc:0 "중전차는 적 전차와 방어진지를 파괴하기 위해 설계된 크게 강화된 괴물입니다."
 
