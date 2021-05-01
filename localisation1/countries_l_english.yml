@@ -1,329 +1,329 @@
 ﻿l_english:
  ##############whenever you create new cosmetic tags, you'd wanna add them to common/scripted_effects/00_scripted_effects.txt
- GER_fascism:0 "German Reich"
- GER_fascism_DEF:0 "The German Reich"
- GER_liberalism:0 "German Republic"
- GER_liberalism_DEF:0 "The German Republic"
- GER_conservatism:0 "German Republic"
- GER_conservatism_DEF:0 "The German Republic"
- GER_socialism:0 "German Republic"
- GER_socialism_DEF:0 "The German Republic"
- GER_neutrality:1 "German Empire" #Germany
- GER_neutrality_DEF:1 "The German Empire" #Germany
- GER_communism:0 "Socialist Republic of Germany"
- GER_communism_DEF:0 "The Socialist Republic of Germany"
- GER_monarchism:0 "German Empire"
- GER_monarchism_DEF:0 "The German Empire"
- GER_monarchism_ADJ:0 "German"
- GER_fascism_ADJ:0 "German"
- GER_neutrality_ADJ:0 "German"
- GER_communism_ADJ:0 "German"
- GER_conservatism_ADJ:0 "German"
- GER_liberalism_ADJ:0 "German"
- GER_socialism_ADJ:0 "German"
- CIV_fascism:0 "Civilians"
- CIV_fascism_DEF:0 "The Civilian Population"
- CIV_liberalism:0 "Civilians"
- CIV_liberalism_DEF:0 "The Civilian Population"
- CIV_conservatism:0 "Civilians"
- CIV_conservatism_DEF:0 "The Civilian Population"
- CIV_socialism:0 "Civilians"
- CIV_socialism_DEF:0 "The Civilian Population"
- CIV_neutrality:1 "Civilians"
- CIV_neutrality_DEF:1 "The Civilian Population"
- CIV_communism:0 "Civilians"
- CIV_communism_DEF:0 "The Civilian Population"
- CIV_monarchism:0 "Civilians"
- CIV_monarchism_DEF:0 "The Civilian Population"
- CIV_fascism_ADJ:0 "Civilian"
- CIV_neutrality_ADJ:0 "Civilian"
- CIV_communism_ADJ:0 "Civilian"
- CIV_conservatism_ADJ:0 "Civilian"
- CIV_liberalism_ADJ:0 "Civilian"
- CIV_socialism_ADJ:0 "Civilian"
- CIV_monarchism_ADJ:0 "Civilian"
- ENG_fascism:0 "British Empire"
- ENG_fascism_DEF:0 "The British Empire"
- ENG_conservatism:0 "United Kingdom"
- ENG_conservatism_DEF:0 "The United Kingdom"
- ENG_liberalism:0 "United Kingdom"
- ENG_liberalism_DEF:0 "The United Kingdom"
- ENG_socialism:0 "United Kingdom"
- ENG_socialism_DEF:0 "The United Kingdom"
- ENG_neutrality:0 "United Kingdom" #Great Britain
- ENG_neutrality_DEF:0 "The United Kingdom" #Great Britain
- ENG_communism:0 "United Republic" #Union of Britain
- ENG_communism_DEF:0 "The United Republic" #The Union of Britain
- ENG_monarchism:0 "British Empire"
- ENG_monarchism_DEF:0 "The British Empire"
- ENG_monarchism_ADJ:0 "British"
- ENG_fascism_ADJ:0 "British"
- ENG_neutrality_ADJ:0 "British"
- ENG_communism_ADJ:0 "British"
- ENG_conservatism_ADJ:0 "British"
- ENG_liberalism_ADJ:0 "British"
- ENG_socialism_ADJ:0 "British"
- RUS_EMPIRE_neutrality:0 "Russian Empire" #Russia
- RUS_EMPIRE_neutrality_DEF:0 "The Russian Empire" #Russia
- RUS_EMPIRE_monarchism:0 "Russian Empire"
- RUS_EMPIRE_monarchism_DEF:0 "The Russian Empire"
- RUS_EMPIRE_fascism:0 "Russian Empire"
- RUS_EMPIRE_fascism_DEF:0 "The Russian Empire"
- RUS_EMPIRE_democratic:0 "Russian Federation"
- RUS_EMPIRE_democratic_DEF:0 "The Russian Federation"
- RUS_EMPIRE_conservatism:0 "Russian Federation"
- RUS_EMPIRE_conservatism_DEF:0 "The Russian Federation"
- RUS_EMPIRE_liberalism:0 "Russian Federation"
- RUS_EMPIRE_liberalism_DEF:0 "The Russian Federation"
- RUS_EMPIRE_socialism:0 "Russian Federation"
- RUS_EMPIRE_socialism_DEF:0 "The Russian Federation"
- RUS_EMPIRE_communism:0 "Soviet Union"
- RUS_EMPIRE_communism_DEF:0 "The Union of Soviet Socialist Republics"
- RUS_fascism:0 "Russian State" #Russian Empire
- RUS_fascism_DEF:0 "The Russian State" #The Russian Empire
- RUS_socialism:0 "Russian Federation"
- RUS_socialism_DEF:0 "The Russian Federation"
- RUS_conservatism:0 "Russian Federation"
- RUS_conservatism_DEF:0 "The Russian Federation"
- RUS_liberalism:0 "Russian Federation"
- RUS_liberalism_DEF:0 "The Russian Federation"
- RUS_neutrality:0 "Russian Republic" #Russia
- RUS_neutrality_DEF:0 "The Russian Republic" #Russia
- RUS_monarchism:0 "Russian Empire"
- RUS_monarchism_DEF:0 "The Russian Empire"
- RUS_communism:0 "Soviet Union"
- RUS_communism_DEF:0 "The Union of Soviet Socialist Republics" #The Soviet Union
- RUS_fascism_ADJ:0 "Russian"
- RUS_neutrality_ADJ:0 "Russian"
- RUS_socialism_ADJ:0 "Russian"
- RUS_conservatism_ADJ:0 "Russian"
- RUS_liberalism_ADJ:0 "Russian"
- RUS_monarchism_ADJ:0 "Russian"
- RUS_communism_ADJ:0 "Soviet"
- SOV_fascism:0 "Russian State" #Russian Empire
- SOV_fascism_DEF:0 "The Russian State" #The Russian Empire
- SOV_socialism:0 "Russian Federation"
- SOV_socialism_DEF:0 "The Russian Federation"
- SOV_conservatism:0 "Russian Federation"
- SOV_conservatism_DEF:0 "The Russian Federation"
- SOV_liberalism:0 "Russian Federation"
- SOV_liberalism_DEF:0 "The Russian Federation"
- SOV_neutrality:0 "Russian Republic" #Russia
- SOV_neutrality_DEF:0 "Russian Republic" #Russia
- SOV_monarchism:0 "Russian Empire"
- SOV_monarchism_DEF:0 "The Russian Empire"
- SOV_communism:0 "Soviet Union"
- SOV_communism_DEF:0 "The Union of Soviet Socialist Republics" #The Soviet Union
- SOV_fascism_ADJ:0 "Russian"
- SOV_neutrality_ADJ:0 "Russian"
- SOV_socialism_ADJ:0 "Russian"
- SOV_conservatism_ADJ:0 "Russian"
- SOV_liberalism_ADJ:0 "Russian"
- SOV_monarchism_ADJ:0 "Russian"
- SOV_communism_ADJ:0 "Soviet"
- USA_fascism:0 "American Empire" #Free American Empire
- USA_fascism_DEF:0 "The American Empire" #The Free American Empire
- USA_conservatism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_conservatism_DEF:0 "The Free States of America" #The United States
- USA_liberalism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_liberalism_DEF:0 "The Free States of America" #The United States
- USA_socialism:0 "Free States" #don't worry, these are only used for civil war countries, like D02
- USA_socialism_DEF:0 "The Free States of America" #The United States
- USA_neutrality:0 "Confederate States"
- USA_neutrality_DEF:0 "The Confederate States of America"
- USA_communism:0 "Socialist States of America" #Communist States of America
- USA_communism_DEF:0 "The Socialist States of America" #The Communist States of America 
- USA_monarchism:0 "American Empire" #Napoleonian style empire
- USA_monarchism_DEF:0 "The American Empire"
- USA_fascism_ADJ:0 "American"
- USA_neutrality_ADJ:0 "Confederate" #American
- USA_communism_ADJ:0 "American"
- USA_conservatism_ADJ:0 "American"
- USA_liberalism_ADJ:0 "American"
- USA_socialism_ADJ:0 "American"
- USA_monarchism_ADJ:0 "American"
- USA_13_fascism:0 "United States" #Free American Empire
- USA_13_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_13_conservatism:0 "United States"
- USA_13_conservatism_DEF:0 "The United States of America" #The United States
- USA_13_liberalism:0 "United States"
- USA_13_liberalism_DEF:0 "The United States of America" #The United States
- USA_13_socialism:0 "United States"
- USA_13_socialism_DEF:0 "The United States of America" #The United States
- USA_13_neutrality:0 "United States"
- USA_13_neutrality_DEF:0 "The United States of America"
- USA_13_communism:0 "United States" #Communist States of America
- USA_13_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_13_monarchism:0 "United States"
- USA_13_monarchism_DEF:0 "The United States of America"
- USA_48_fascism:0 "United States" #Free American Empire
- USA_48_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_48_conservatism:0 "United States"
- USA_48_conservatism_DEF:0 "The United States of America" #The United States
- USA_48_liberalism:0 "United States"
- USA_48_liberalism_DEF:0 "The United States of America" #The United States
- USA_48_socialism:0 "United States"
- USA_48_socialism_DEF:0 "The United States of America" #The United States
- USA_48_neutrality:0 "United States"
- USA_48_neutrality_DEF:0 "The United States of America"
- USA_48_communism:0 "United States" #Communist States of America
- USA_48_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_48_monarchism:0 "United States"
- USA_48_monarchism_DEF:0 "The United States of America"
- USA_49_fascism:0 "United States" #Free American Empire
- USA_49_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_49_conservatism:0 "United States"
- USA_49_conservatism_DEF:0 "The United States of America" #The United States
- USA_49_liberalism:0 "United States"
- USA_49_liberalism_DEF:0 "The United States of America" #The United States
- USA_49_socialism:0 "United States"
- USA_49_socialism_DEF:0 "The United States of America" #The United States
- USA_49_neutrality:0 "United States"
- USA_49_neutrality_DEF:0 "The United States of America"
- USA_49_communism:0 "United States" #Communist States of America
- USA_49_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_49_monarchism:0 "United States"
- USA_49_monarchism_DEF:0 "The United States of America"
- USA_50_fascism:0 "United States" #Free American Empire
- USA_50_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_50_conservatism:0 "United States"
- USA_50_conservatism_DEF:0 "The United States of America" #The United States
- USA_50_liberalism:0 "United States"
- USA_50_liberalism_DEF:0 "The United States of America" #The United States
- USA_50_socialism:0 "United States"
- USA_50_socialism_DEF:0 "The United States of America" #The United States
- USA_50_neutrality:0 "United States"
- USA_50_neutrality_DEF:0 "The United States of America"
- USA_50_communism:0 "United States" #Communist States of America
- USA_50_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_50_monarchism:0 "United States"
- USA_50_monarchism_DEF:0 "The United States of America"
- USA_51_fascism:0 "United States" #Free American Empire
- USA_51_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_51_conservatism:0 "United States"
- USA_51_conservatism_DEF:0 "The United States of America" #The United States
- USA_51_liberalism:0 "United States"
+ GER_fascism:0 "독일국"
+ GER_fascism_DEF:0 "독일국"
+ GER_liberalism:0 "독일 공화국"
+ GER_liberalism_DEF:0 "독일 공화국"
+ GER_conservatism:0 "독일 공화국"
+ GER_conservatism_DEF:0 "독일 공화국"
+ GER_socialism:0 "독일 공화국"
+ GER_socialism_DEF:0 "독일 공화국"
+ GER_neutrality:1 "독일 제국" #Germany
+ GER_neutrality_DEF:1 "독일 제국" #Germany
+ GER_communism:0 "독일 사회주의 공화국"
+ GER_communism_DEF:0 "독일 사회주의 공화국"
+ GER_monarchism:0 "독일 제국"
+ GER_monarchism_DEF:0 "독일 제국"
+ GER_monarchism_ADJ:0 "독일"
+ GER_fascism_ADJ:0 "독일"
+ GER_neutrality_ADJ:0 "독일"
+ GER_communism_ADJ:0 "독일"
+ GER_conservatism_ADJ:0 "독일"
+ GER_liberalism_ADJ:0 "독일"
+ GER_socialism_ADJ:0 "독일"
+ CIV_fascism:0 "민간인"
+ CIV_fascism_DEF:0 "민간 인구"
+ CIV_liberalism:0 "민간인"
+ CIV_liberalism_DEF:0 "민간 인구"
+ CIV_conservatism:0 "민간인"
+ CIV_conservatism_DEF:0 "민간 인구"
+ CIV_socialism:0 "민간인"
+ CIV_socialism_DEF:0 "민간 인구"
+ CIV_neutrality:1 "민간인"
+ CIV_neutrality_DEF:1 "민간 인구"
+ CIV_communism:0 "민간인"
+ CIV_communism_DEF:0 "민간 인구"
+ CIV_monarchism:0 "민간인"
+ CIV_monarchism_DEF:0 "민간 인구"
+ CIV_fascism_ADJ:0 "민간인"
+ CIV_neutrality_ADJ:0 "민간인"
+ CIV_communism_ADJ:0 "민간인"
+ CIV_conservatism_ADJ:0 "민간인"
+ CIV_liberalism_ADJ:0 "민간인"
+ CIV_socialism_ADJ:0 "민간인"
+ CIV_monarchism_ADJ:0 "민간인"
+ ENG_fascism:0 "대영 제국"
+ ENG_fascism_DEF:0 "대영 제국"
+ ENG_conservatism:0 "영국"
+ ENG_conservatism_DEF:0 "영국"
+ ENG_liberalism:0 "영국"
+ ENG_liberalism_DEF:0 "영국"
+ ENG_socialism:0 "영국"
+ ENG_socialism_DEF:0 "영국"
+ ENG_neutrality:0 "영국" #Great Britain
+ ENG_neutrality_DEF:0 "영국" #Great Britain
+ ENG_communism:0 "브리튼 연방" #Union of Britain
+ ENG_communism_DEF:0 "브리튼 연방" #The Union of Britain
+ ENG_monarchism:0 "대영 제국"
+ ENG_monarchism_DEF:0 "대영 제국"
+ ENG_monarchism_ADJ:0 "영국"
+ ENG_fascism_ADJ:0 "영국"
+ ENG_neutrality_ADJ:0 "영국"
+ ENG_communism_ADJ:0 "영국"
+ ENG_conservatism_ADJ:0 "영국"
+ ENG_liberalism_ADJ:0 "영국"
+ ENG_socialism_ADJ:0 "영국"
+ RUS_EMPIRE_neutrality:0 "러시아 제국" #Russia
+ RUS_EMPIRE_neutrality_DEF:0 "러시아 제국" #Russia
+ RUS_EMPIRE_monarchism:0 "러시아 제국"
+ RUS_EMPIRE_monarchism_DEF:0 "러시아 제국"
+ RUS_EMPIRE_fascism:0 "러시아 제국"
+ RUS_EMPIRE_fascism_DEF:0 "러시아 제국"
+ RUS_EMPIRE_democratic:0 "러시아 연방"
+ RUS_EMPIRE_democratic_DEF:0 "러시아 연방"
+ RUS_EMPIRE_conservatism:0 "러시아 연방"
+ RUS_EMPIRE_conservatism_DEF:0 "러시아 연방"
+ RUS_EMPIRE_liberalism:0 "러시아 연방"
+ RUS_EMPIRE_liberalism_DEF:0 "러시아 연방"
+ RUS_EMPIRE_socialism:0 "러시아 연방"
+ RUS_EMPIRE_socialism_DEF:0 "러시아 연방"
+ RUS_EMPIRE_communism:0 "소비에트 연방"
+ RUS_EMPIRE_communism_DEF:0 "소비에트 사회주의 공화국 연방"
+ RUS_fascism:0 "러시아국" #Russian Empire
+ RUS_fascism_DEF:0 "러시아국" #The Russian Empire
+ RUS_socialism:0 "러시아 연방"
+ RUS_socialism_DEF:0 "러시아 연방"
+ RUS_conservatism:0 "러시아 연방"
+ RUS_conservatism_DEF:0 "러시아 연방"
+ RUS_liberalism:0 "러시아 연방"
+ RUS_liberalism_DEF:0 "러시아 연방"
+ RUS_neutrality:0 "러시아 공화국" #Russia
+ RUS_neutrality_DEF:0 "러시아 공화국" #Russia
+ RUS_monarchism:0 "러시아 제국"
+ RUS_monarchism_DEF:0 "러시아 제국"
+ RUS_communism:0 "소비에트 연방"
+ RUS_communism_DEF:0 "소비에트 사회주의 공화국 연방" #The Soviet Union
+ RUS_fascism_ADJ:0 "러시아"
+ RUS_neutrality_ADJ:0 "러시아"
+ RUS_socialism_ADJ:0 "러시아"
+ RUS_conservatism_ADJ:0 "러시아"
+ RUS_liberalism_ADJ:0 "러시아"
+ RUS_monarchism_ADJ:0 "러시아"
+ RUS_communism_ADJ:0 "소비에트"
+ SOV_fascism:0 "러시아국" #Russian Empire
+ SOV_fascism_DEF:0 "러시아국" #The Russian Empire
+ SOV_socialism:0 "러시아 연방"
+ SOV_socialism_DEF:0 "러시아 연방"
+ SOV_conservatism:0 "러시아 연방"
+ SOV_conservatism_DEF:0 "러시아 연방"
+ SOV_liberalism:0 "러시아 연방"
+ SOV_liberalism_DEF:0 "러시아 연방"
+ SOV_neutrality:0 "러시아 공화국" #Russia
+ SOV_neutrality_DEF:0 "러시아 공화국" #Russia
+ SOV_monarchism:0 "러시아 제국"
+ SOV_monarchism_DEF:0 "러시아 제국"
+ SOV_communism:0 "소비에트 연방"
+ SOV_communism_DEF:0 "소비에트 사회주의 공화국 연방" #The Soviet Union
+ SOV_fascism_ADJ:0 "러시아"
+ SOV_neutrality_ADJ:0 "러시아"
+ SOV_socialism_ADJ:0 "러시아"
+ SOV_conservatism_ADJ:0 "러시아"
+ SOV_liberalism_ADJ:0 "러시아"
+ SOV_monarchism_ADJ:0 "러시아"
+ SOV_communism_ADJ:0 "소비에트"
+ USA_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_conservatism:0 "자유주" #don't worry, these are only used for civil war countries, like D02
+ USA_conservatism_DEF:0 "아메리카 자유주" #The United States
+ USA_liberalism:0 "자유주" #don't worry, these are only used for civil war countries, like D02
+ USA_liberalism_DEF:0 "아메리카 자유주" #The United States
+ USA_socialism:0 "자유주" #don't worry, these are only used for civil war countries, like D02
+ USA_socialism_DEF:0 "아메리카 자유주" #The United States
+ USA_neutrality:0 "미연합국"
+ USA_neutrality_DEF:0 "미연합국"
+ USA_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_monarchism:0 "아메리카 제국" #Napoleonian style empire
+ USA_monarchism_DEF:0 "아메리카 제국"
+ USA_fascism_ADJ:0 "미국"
+ USA_neutrality_ADJ:0 "연합" #American
+ USA_communism_ADJ:0 "미국"
+ USA_conservatism_ADJ:0 "미국"
+ USA_liberalism_ADJ:0 "미국"
+ USA_socialism_ADJ:0 "미국"
+ USA_monarchism_ADJ:0 "미국"
+ USA_13_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_13_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_13_conservatism:0 "미합중국"
+ USA_13_conservatism_DEF:0 "미합중국" #The United States
+ USA_13_liberalism:0 "미합중국"
+ USA_13_liberalism_DEF:0 "미합중국" #The United States
+ USA_13_socialism:0 "미합중국"
+ USA_13_socialism_DEF:0 "미합중국" #The United States
+ USA_13_neutrality:0 "미합중국"
+ USA_13_neutrality_DEF:0 "미합중국"
+ USA_13_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_13_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_13_monarchism:0 "미합중국"
+ USA_13_monarchism_DEF:0 "미합중국"
+ USA_48_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_48_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_48_conservatism:0 "미합중국"
+ USA_48_conservatism_DEF:0 "미합중국" #The United States
+ USA_48_liberalism:0 "미합중국"
+ USA_48_liberalism_DEF:0 "미합중국" #The United States
+ USA_48_socialism:0 "미합중국"
+ USA_48_socialism_DEF:0 "미합중국" #The United States
+ USA_48_neutrality:0 "미합중국"
+ USA_48_neutrality_DEF:0 "미합중국"
+ USA_48_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_48_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_48_monarchism:0 "미합중국"
+ USA_48_monarchism_DEF:0 "미합중국"
+ USA_49_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_49_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_49_conservatism:0 "미합중국"
+ USA_49_conservatism_DEF:0 "미합중국" #The United States
+ USA_49_liberalism:0 "미합중국"
+ USA_49_liberalism_DEF:0 "미합중국" #The United States
+ USA_49_socialism:0 "미합중국"
+ USA_49_socialism_DEF:0 "미합중국" #The United States
+ USA_49_neutrality:0 "미합중국"
+ USA_49_neutrality_DEF:0 "미합중국"
+ USA_49_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_49_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_49_monarchism:0 "미합중국"
+ USA_49_monarchism_DEF:0 "미합중국"
+ USA_50_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_50_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_50_conservatism:0 "미합중국"
+ USA_50_conservatism_DEF:0 "미합중국" #The United States
+ USA_50_liberalism:0 "미합중국"
+ USA_50_liberalism_DEF:0 "미합중국" #The United States
+ USA_50_socialism:0 "미합중국"
+ USA_50_socialism_DEF:0 "미합중국" #The United States
+ USA_50_neutrality:0 "미합중국"
+ USA_50_neutrality_DEF:0 "미합중국"
+ USA_50_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_50_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_50_monarchism:0 "미합중국"
+ USA_50_monarchism_DEF:0 "미합중국"
+ USA_51_fascism:0 "미합중국" #Free American Empire
+ USA_51_fascism_DEF:0 "미합중국" #The Free American Empire
+ USA_51_conservatism:0 "미합중국"
+ USA_51_conservatism_DEF:0 "미합중국" #The United States
+ USA_51_liberalism:0 "미합중국"
  USA_51_liberalism_DEF:0 "The United States of America" #The United States
- USA_51_socialism:0 "United States"
- USA_51_socialism_DEF:0 "The United States of America" #The United States
- USA_51_neutrality:0 "United States"
- USA_51_neutrality_DEF:0 "The United States of America"
- USA_51_communism:0 "United States" #Communist States of America
- USA_51_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_51_monarchism:0 "United States"
- USA_51_monarchism_DEF:0 "The United States of America"
- USA_52_fascism:0 "United States" #Free American Empire
- USA_52_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_52_conservatism:0 "United States"
- USA_52_conservatism_DEF:0 "The United States of America" #The United States
- USA_52_liberalism:0 "United States"
- USA_52_liberalism_DEF:0 "The United States of America" #The United States
- USA_52_socialism:0 "United States"
- USA_52_socialism_DEF:0 "The United States of America" #The United States
- USA_52_neutrality:0 "United States"
- USA_52_neutrality_DEF:0 "The United States of America"
- USA_52_communism:0 "United States" #Communist States of America
- USA_52_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_52_monarchism:0 "United States"
- USA_52_monarchism_DEF:0 "The United States of America"
- USA_53_fascism:0 "United States" #Free American Empire
- USA_53_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_53_conservatism:0 "United States"
- USA_53_conservatism_DEF:0 "The United States of America" #The United States
- USA_53_liberalism:0 "United States"
- USA_53_liberalism_DEF:0 "The United States of America" #The United States
- USA_53_socialism:0 "United States"
- USA_53_socialism_DEF:0 "The United States of America" #The United States
- USA_53_neutrality:0 "United States"
- USA_53_neutrality_DEF:0 "The United States of America"
- USA_53_communism:0 "United States" #Communist States of America
- USA_53_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_53_monarchism:0 "United States"
- USA_53_monarchism_DEF:0 "The United States of America"
- USA_54_fascism:0 "United States" #Free American Empire
- USA_54_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_54_conservatism:0 "United States"
- USA_54_conservatism_DEF:0 "The United States of America" #The United States
- USA_54_liberalism:0 "United States"
- USA_54_liberalism_DEF:0 "The United States of America" #The United States
- USA_54_socialism:0 "United States"
- USA_54_socialism_DEF:0 "The United States of America" #The United States
- USA_54_neutrality:0 "United States"
- USA_54_neutrality_DEF:0 "The United States of America"
- USA_54_communism:0 "United States" #Communist States of America
- USA_54_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_54_monarchism:0 "United States"
- USA_54_monarchism_DEF:0 "The United States of America"
- USA_55_fascism:0 "United States" #Free American Empire
- USA_55_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_55_conservatism:0 "United States"
- USA_55_conservatism_DEF:0 "The United States of America" #The United States
- USA_55_liberalism:0 "United States"
- USA_55_liberalism_DEF:0 "The United States of America" #The United States
- USA_55_socialism:0 "United States"
- USA_55_socialism_DEF:0 "The United States of America" #The United States
- USA_55_neutrality:0 "United States"
- USA_55_neutrality_DEF:0 "The United States of America"
- USA_55_communism:0 "United States" #Communist States of America
- USA_55_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_55_monarchism:0 "United States"
- USA_55_monarchism_DEF:0 "The United States of America"
- USA_56_fascism:0 "United States" #Free American Empire
- USA_56_fascism_DEF:0 "The United States of America" #The Free American Empire
- USA_56_conservatism:0 "United States"
- USA_56_conservatism_DEF:0 "The United States of America" #The United States
- USA_56_liberalism:0 "United States"
- USA_56_liberalism_DEF:0 "The United States of America" #The United States
- USA_56_socialism:0 "United States"
- USA_56_socialism_DEF:0 "The United States of America" #The United States
- USA_56_neutrality:0 "United States"
- USA_56_neutrality_DEF:0 "The United States of America"
- USA_56_communism:0 "United States" #Communist States of America
- USA_56_communism_DEF:0 "The United States of America" #The Communist States of America 
- USA_56_monarchism:0 "United States"
- USA_56_monarchism_DEF:0 "The United States of America"
- SWE_fascism:0 "Swedish Empire" #Swedish State #Svea Rike
- SWE_fascism_DEF:0 "The Swedish Empire" #The Swedish State #Svea Rike
- SWE_socialism:0 "Sweden"
- SWE_socialism_DEF:0 "Sweden"
- SWE_conservatism:0 "Sweden"
- SWE_conservatism_DEF:0 "Sweden"
- SWE_liberalism:0 "Sweden"
- SWE_liberalism_DEF:0 "Sweden"
- SWE_neutrality:0 "Kingdom of Sweden"
- SWE_neutrality_DEF:0 "The Kingdom of Sweden"
- SWE_communism:0 "Swedish Democratic Republic" #Folkhemmet
- SWE_communism_DEF:0 "The Swedish Democratic Republic" #Folkhemmet
- SWE_monarchism:0 "Kingdom of Sweden"
- SWE_monarchism_DEF:0 "The Kingdom of Sweden"
- SWE_monarchism_ADJ:0 "Swedish"
- SWE_fascism_ADJ:0 "Swedish"
- SWE_neutrality_ADJ:0 "Swedish"
- SWE_communism_ADJ:0 "Swedish"
- SWE_socialism_ADJ:0 "Swedish"
- SWE_conservatism_ADJ:0 "Swedish"
- SWE_liberalism_ADJ:0 "Swedish"
- VIC_fascism:0 "Vichy France"
- VIC_fascism_DEF:0 "Vichy France"
- VIC_conservatism:0 "Republic of Vichy"
- VIC_conservatism_DEF:0 "The Republic of Vichy"
- VIC_liberalism:0 "Republic of Vichy"
- VIC_liberalism_DEF:0 "The Republic of Vichy"
- VIC_socialism:0 "Republic of Vichy"
- VIC_socialism_DEF:0 "The Republic of Vichy"
- VIC_neutrality:0 "Vichy France"
- VIC_neutrality_DEF:0 "Vichy France" #The Vichy France
- VIC_communism:0 "Vichy Commune"
- VIC_communism_DEF:0 "The Vichy Commune"
- VIC_monarchism:0 "French Empire"
- VIC_monarchism_DEF:0 "The French Empire"
- VIC_fascism_ADJ:0 "Vichy French"
- VIC_neutrality_ADJ:0 "Vichy French"
- VIC_communism_ADJ:0 "Vichy French"
- VIC_conservatism_ADJ:0 "Vichy French"
- VIC_liberalism_ADJ:0 "Vichy French"
- VIC_socialism_ADJ:0 "Vichy French"
- VIC_monarchism_ADJ:0 "Vichy French" 
+ USA_51_socialism:0 "미합중국"
+ USA_51_socialism_DEF:0 "미합중국" #The United States
+ USA_51_neutrality:0 "미합중국"
+ USA_51_neutrality_DEF:0 "미합중국"
+ USA_51_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_51_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_51_monarchism:0 "미합중국"
+ USA_51_monarchism_DEF:0 "미합중국"
+ USA_52_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_52_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_52_conservatism:0 "미합중국"
+ USA_52_conservatism_DEF:0 "미합중국" #The United States
+ USA_52_liberalism:0 "미합중국"
+ USA_52_liberalism_DEF:0 "미합중국" #The United States
+ USA_52_socialism:0 "미합중국"
+ USA_52_socialism_DEF:0 "미합중국" #The United States
+ USA_52_neutrality:0 "미합중국"
+ USA_52_neutrality_DEF:0 "미합중국"
+ USA_52_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_52_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_52_monarchism:0 "미합중국"
+ USA_52_monarchism_DEF:0 "미합중국"
+ USA_53_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_53_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_53_conservatism:0 "미합중국"
+ USA_53_conservatism_DEF:0 "미합중국" #The United States
+ USA_53_liberalism:0 "미합중국"
+ USA_53_liberalism_DEF:0 "미합중국" #The United States
+ USA_53_socialism:0 "미합중국"
+ USA_53_socialism_DEF:0 "미합중국" #The United States
+ USA_53_neutrality:0 "미합중국"
+ USA_53_neutrality_DEF:0 "미합중국"
+ USA_53_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_53_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_53_monarchism:0 "미합중국"
+ USA_53_monarchism_DEF:0 "미합중국"
+ USA_54_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_54_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_54_conservatism:0 "미합중국"
+ USA_54_conservatism_DEF:0 "미합중국" #The United States
+ USA_54_liberalism:0 "미합중국"
+ USA_54_liberalism_DEF:0 "미합중국" #The United States
+ USA_54_socialism:0 "미합중국"
+ USA_54_socialism_DEF:0 "미합중국" #The United States
+ USA_54_neutrality:0 "미합중국"
+ USA_54_neutrality_DEF:0 "미합중국"
+ USA_54_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_54_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_54_monarchism:0 "미합중국"
+ USA_54_monarchism_DEF:0 "미합중국"
+ USA_55_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_55_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_55_conservatism:0 "미합중국"
+ USA_55_conservatism_DEF:0 "미합중국" #The United States
+ USA_55_liberalism:0 "미합중국"
+ USA_55_liberalism_DEF:0 "미합중국" #The United States
+ USA_55_socialism:0 "미합중국"
+ USA_55_socialism_DEF:0 "미합중국" #The United States
+ USA_55_neutrality:0 "미합중국"
+ USA_55_neutrality_DEF:0 "미합중국"
+ USA_55_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_55_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_55_monarchism:0 "미합중국"
+ USA_55_monarchism_DEF:0 "미합중국"
+ USA_56_fascism:0 "자유 미주 제국" #Free American Empire
+ USA_56_fascism_DEF:0 "자유 미주 제국" #The Free American Empire
+ USA_56_conservatism:0 "미합중국"
+ USA_56_conservatism_DEF:0 "미합중국" #The United States
+ USA_56_liberalism:0 "미합중국"
+ USA_56_liberalism_DEF:0 "미합중국" #The United States
+ USA_56_socialism:0 "미합중국"
+ USA_56_socialism_DEF:0 "미합중국" #The United States
+ USA_56_neutrality:0 "미합중국"
+ USA_56_neutrality_DEF:0 "미합중국"
+ USA_56_communism:0 "미 사회주의 합중국" #Communist States of America
+ USA_56_communism_DEF:0 "미 사회주의 합중국" #The Communist States of America 
+ USA_56_monarchism:0 "미합중국"
+ USA_56_monarchism_DEF:0 "미합중국"
+ SWE_fascism:0 "스웨덴 제국" #Swedish State #Svea Rike
+ SWE_fascism_DEF:0 "스웨덴 제국" #The Swedish State #Svea Rike
+ SWE_socialism:0 "스웨덴"
+ SWE_socialism_DEF:0 "스웨덴"
+ SWE_conservatism:0 "스웨덴"
+ SWE_conservatism_DEF:0 "스웨덴"
+ SWE_liberalism:0 "스웨덴"
+ SWE_liberalism_DEF:0 "스웨덴"
+ SWE_neutrality:0 "스웨덴 왕국"
+ SWE_neutrality_DEF:0 "스웨덴 왕국"
+ SWE_communism:0 "스웨덴 민주 공화국" #Folkhemmet
+ SWE_communism_DEF:0 "스웨덴 민주 공화국" #Folkhemmet
+ SWE_monarchism:0 "스웨덴 왕국"
+ SWE_monarchism_DEF:0 "스웨덴 왕국"
+ SWE_monarchism_ADJ:0 "스웨덴"
+ SWE_fascism_ADJ:0 "스웨덴"
+ SWE_neutrality_ADJ:0 "스웨덴"
+ SWE_communism_ADJ:0 "스웨덴"
+ SWE_socialism_ADJ:0 "스웨덴"
+ SWE_conservatism_ADJ:0 "스웨덴"
+ SWE_liberalism_ADJ:0 "스웨덴"
+ VIC_fascism:0 "비시 프랑스"
+ VIC_fascism_DEF:0 "비시 프랑스"
+ VIC_conservatism:0 "비시 공화국"
+ VIC_conservatism_DEF:0 "비시 공화국"
+ VIC_liberalism:0 "비시 공화국"
+ VIC_liberalism_DEF:0 "비시 공화국"
+ VIC_socialism:0 "비시 공화국"
+ VIC_socialism_DEF:0 "비시 공화국"
+ VIC_neutrality:0 "비시 프랑스"
+ VIC_neutrality_DEF:0 "비시 프랑스" #The Vichy France
+ VIC_communism:0 "비시 코뮌"
+ VIC_communism_DEF:0 "비시 코뮌"
+ VIC_monarchism:0 "프랑스 제국"
+ VIC_monarchism_DEF:0 "프랑스 제국"
+ VIC_fascism_ADJ:0 "프랑스국"
+ VIC_neutrality_ADJ:0 "비시 프랑스"
+ VIC_communism_ADJ:0 "비시 프랑스"
+ VIC_conservatism_ADJ:0 "비시 프랑스"
+ VIC_liberalism_ADJ:0 "비시 프랑스"
+ VIC_socialism_ADJ:0 "비시 프랑스"
+ VIC_monarchism_ADJ:0 "비시 프랑스" 
  FRA_fascism:0 "French State"
  FRA_fascism_DEF:0 "The French State"
  FRA_conservatism:0 "French Republic" #France
