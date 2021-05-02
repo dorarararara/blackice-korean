@@ -1,13 +1,13 @@
 ﻿l_english:
  unlock_ability_TT:0 "Unlocks §YAbility§!: "
- ABILITY_ADAPTIVE:0 "Ad Ogni Costo"
- ABILITY_ADAPTIVE_TOOLTIP:0 "Ad Ogni Costo ($LEADER$)"
- ABILITY_ADAPTIVE_DESC:0 "Your armies will ignore most of the terrian penalties and gain a small offensive boost while suffering slightly more attrition and damage."
- ITA_ADAPTIVE_TT:0 "Gain the ability §GAd Ogni Costo§! which ignores most of the terrian penalties and gains a small offensive boost while suffering slightly more attrition and damage"
- ABILITY_ENCIRCLEMENT_BREAKOUT:0 "Encirclement Breakout"
- ABILITY_ENCIRCLEMENT_BREAKOUT_TOOLTIP:0 "Encirclement Breakout ($LEADER$)"
- ABILITY_ABILITY_ENCIRCLEMENT_BREAKOUT_DESC:0 "Your units will prepare for a breakout from their miserable position."
- makeshift_bridges_trigger_TT:0 "£trigger_no Requires 25 Bridges & Assault Boats to activate. \n     Command Power Cost will lower with triggers fullfilled"
+ ABILITY_ADAPTIVE:0 "어떤 대가를 치르더라도"
+ ABILITY_ADAPTIVE_TOOLTIP:0 "어떤 대가를 치르더라도 ($LEADER$)"
+ ABILITY_ADAPTIVE_DESC:0 "당신의 군대는 대부분의 지형 패널티을 무시하고 약간의 공격적 이점을 얻는 동안 약간의 더 많은 소모와 피해를 입게 될 것입니다."
+ ITA_ADAPTIVE_TT:0 "§G어떤 대가를 치르더라도§! 능력을 얻고 그것은 대부분의 지형 패널티을 무시하고 약간의 공격적 이점을 얻는 동안 약간의 더 많은 소모와 피해를 입게 될 것입니다"
+ ABILITY_ENCIRCLEMENT_BREAKOUT:0 "포위망 돌파"
+ ABILITY_ENCIRCLEMENT_BREAKOUT_TOOLTIP:0 "포위망 돌파 ($LEADER$)"
+ ABILITY_ABILITY_ENCIRCLEMENT_BREAKOUT_DESC:0 "각 부대는 불리한 위치에서 벗어날 준비를 할 것입니다."
+ makeshift_bridges_trigger_TT:0 "£trigger_no 25개의 부교와 상륙용 주정이 필요합니다. \n     요구사항이 충족되면 필요한 지휘력이 감소할 것입니다"
  
  
  
