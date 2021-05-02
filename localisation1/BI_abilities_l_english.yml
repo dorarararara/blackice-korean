@@ -1,5 +1,5 @@
 ﻿l_english:
- unlock_ability_TT:0 "Unlocks §YAbility§!: "
+ unlock_ability_TT:0 "§Y능력§! 잠금 해제: "
  ABILITY_ADAPTIVE:0 "어떤 대가를 치르더라도"
  ABILITY_ADAPTIVE_TOOLTIP:0 "어떤 대가를 치르더라도 ($LEADER$)"
  ABILITY_ADAPTIVE_DESC:0 "당신의 군대는 대부분의 지형 패널티을 무시하고 약간의 공격적 이점을 얻는 동안 약간의 더 많은 소모와 피해를 입게 될 것입니다."
