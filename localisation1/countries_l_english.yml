@@ -4688,211 +4688,211 @@
  # CWP
  CWP_communism:0 "중국 노동자와 농민 붉은군대"
  CWP_communism_ADJ:0 "중국"
- CWP_communism_DEF:0 "중국 노동자와 농 붉은군대" 
+ CWP_communism_DEF:0 "중국 노동자와 농민 붉은군대" 
 
  ## Canada Factions ##
- north_american_faction:0 "North American League"
- continental_alliance:0 "Continental Alliance"
+ north_american_faction:0 "북아메리카 연합"
+ continental_alliance:0 "유럽 동맹"
 
  # TBLRA
- VLA_fascism:0 "Flemish State" #Vlaamse Staat
- VLA_fascism_DEF:0 "The Flemish State" #Vlaamse Staat
- VLA_conservatism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_conservatism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
- VLA_liberalism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_liberalism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
- VLA_socialism:0 "Flemish Republic" #Vlaamse Republiek
- VLA_socialism_DEF:0 "The Flemish Republic" #Vlaamse Republiek
- VLA_neutrality:0 "Flemish Republic" #Vlaanderen
- VLA_neutrality_DEF:0 "The Flemish Republic" #Vlaanderen
- VLA_communism:0 "Flemish Socialist Republic" #Vlaamse Socialistische Republiek
- VLA_communism_DEF:0 "The Flemish Socialist Republic" #Vlaamse Socialistische Republiek
- VLA_monarchism:0 "Kingdom of Flanders"
- VLA_monarchism_DEF:0 "The Kingdom of Flanders"
- VLA_fascism_ADJ:0 "Flemish" #Vlaams
- VLA_conservatism_ADJ:0 "Flemish" #Vlaams
- VLA_liberalism_ADJ:0 "Flemish" #Vlaams
- VLA_socialism_ADJ:0 "Flemish" #Vlaams
- VLA_neutrality_ADJ:0 "Flemish" #Vlaams
- VLA_communism_ADJ:0 "Flemish" #Vlaams
- VLA_monarchism_ADJ:0 "Flemish" #Vlaams
- WLL_fascism:0 "Wallonian State" #État wallon
- WLL_fascism_DEF:0 "The Wallonian State" #État wallon
- WLL_conservatism:0 "Republic of Wallonia" #République wallone
- WLL_conservatism_DEF:0 "The Republic of Wallonia" #République wallone
- WLL_liberalism:0 "Republic of Wallonia" #République wallone
- WLL_liberalism_DEF:0 "The Republic of Wallonia" #République wallone
- WLL_socialism:0 "Republic of Wallonia" #République wallone
- WLL_socialism_DEF:0 "The Republic of Wallonia" #République wallone
- WLL_neutrality:0 "Republic of Wallonia" #Wallonia
- WLL_neutrality_DEF:0 "The Republic of Wallonia" #Wallonia
- WLL_communism:0 "Popular Republic of Wallonia" #Republique populaire de Wallonie
- WLL_communism_DEF:0 "The Popular Republic of Wallonia" #Republique populaire de Wallonie
- WLL_monarchism:0 "Kingdom of Wallonia"
- WLL_monarchism_DEF:0 "The Kingdom of Wallonia"
- WLL_fascism_ADJ:0 "Walloon"
- WLL_conservatism_ADJ:0 "Walloon"
- WLL_liberalism_ADJ:0 "Walloon"
- WLL_socialism_ADJ:0 "Walloon"
- WLL_neutrality_ADJ:0 "Walloon"
- WLL_communism_ADJ:0 "Walloon"
- WLL_monarchism_ADJ:0 "Walloon"
- BEL2_fascism:0 "Dietsland"
- BEL2_fascism_DEF:0 "Dietsland"
- BEL2_communism_DEF:0 "Belgian People's Republic"
- BEL2_neutrality_DEF:0 "Belgium"
- BEL2_fascism_ADJ:0 "Diets"
- BEL2_communism_ADJ:0 "Belgian"
- BEL2_neutrality_ADJ:0 "Belgian"
+ VLA_fascism:0 "플랑드르국" #Vlaamse Staat
+ VLA_fascism_DEF:0 "플랑드르국" #Vlaamse Staat
+ VLA_conservatism:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_conservatism_DEF:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_liberalism:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_liberalism_DEF:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_socialism:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_socialism_DEF:0 "플랑드르 공화국" #Vlaamse Republiek
+ VLA_neutrality:0 "플랑드르 공화국" #Vlaanderen
+ VLA_neutrality_DEF:0 "플랑드르 공화국" #Vlaanderen
+ VLA_communism:0 "플랑드르 사회주의 공화국" #Vlaamse Socialistische Republiek
+ VLA_communism_DEF:0 "플랑드르 사회주의 공화국" #Vlaamse Socialistische Republiek
+ VLA_monarchism:0 "플랑드르 왕국"
+ VLA_monarchism_DEF:0 "플랑드르 왕국"
+ VLA_fascism_ADJ:0 "플랑드르" #Vlaams
+ VLA_conservatism_ADJ:0 "플랑드르" #Vlaams
+ VLA_liberalism_ADJ:0 "플랑드르" #Vlaams
+ VLA_socialism_ADJ:0 "플랑드르" #Vlaams
+ VLA_neutrality_ADJ:0 "플랑드르" #Vlaams
+ VLA_communism_ADJ:0 "플랑드르" #Vlaams
+ VLA_monarchism_ADJ:0 "플랑드르" #Vlaams
+ WLL_fascism:0 "왈롱국" #État wallon
+ WLL_fascism_DEF:0 "왈롱국" #État wallon
+ WLL_conservatism:0 "왈롱 공화국" #République wallone
+ WLL_conservatism_DEF:0 "왈롱 공화국" #République wallone
+ WLL_liberalism:0 "왈롱 공화국" #République wallone
+ WLL_liberalism_DEF:0 "왈롱 공화국" #République wallone
+ WLL_socialism:0 "왈롱 공화국" #République wallone
+ WLL_socialism_DEF:0 "왈롱 공화국" #République wallone
+ WLL_neutrality:0 "왈롱 공화국" #Wallonia
+ WLL_neutrality_DEF:0 "왈롱 공화국" #Wallonia
+ WLL_communism:0 "왈롱 인민 공화국" #Republique populaire de Wallonie
+ WLL_communism_DEF:0 "왈롱 인민 공화국" #Republique populaire de Wallonie
+ WLL_monarchism:0 "왈롱 왕국"
+ WLL_monarchism_DEF:0 "왈롱 왕국"
+ WLL_fascism_ADJ:0 "왈롱"
+ WLL_conservatism_ADJ:0 "왈롱"
+ WLL_liberalism_ADJ:0 "왈롱"
+ WLL_socialism_ADJ:0 "왈롱"
+ WLL_neutrality_ADJ:0 "왈롱"
+ WLL_communism_ADJ:0 "왈롱"
+ WLL_monarchism_ADJ:0 "왈롱"
+ BEL2_fascism:0 "디츨란트"
+ BEL2_fascism_DEF:0 "디츨란트"
+ BEL2_communism_DEF:0 "벨기에 인민 공화국"
+ BEL2_neutrality_DEF:0 "벨기에 왕국"
+ BEL2_fascism_ADJ:0 "디츨"
+ BEL2_communism_ADJ:0 "벨기에"
+ BEL2_neutrality_ADJ:0 "벨기에"
  
- BEL3_fascism:0 "Thiois Empire"
- BEL3_fascism_DEF:0 "Thiois Empire"
- BEL3_GER_fascism:0 "State of Burgundy"
- BEL3_GER_fascism_DEF:0 "State of Burgundy"
- BEL3_GER_autonomy_dominion:0 "State of Burgundy"
- BEL3_GER_autonomy_colony:0 "State of Burgundy"
- BEL3_GER_autonomy_puppet:0 "State of Burgundy"
- BEL3_GER_autonomy_integrated_puppet:0 "State of Burgundy"
- BEL3_GER_autonomy_dominion_DEF:0 "State of Burgundy"
- BEL3_GER_autonomy_colony_DEF:0 "State of Burgundy"
- BEL3_GER_autonomy_puppet_DEF:0 "State of Burgundy"
- BEL3_GER_autonomy_integrated_puppet_DEF:0 "State of Burgundy"
- BEL3_communism_DEF:0 "Burgundian People's Republic"
- BEL3_neutrality_DEF:0 "Kingdom of Lotharingia"
- BEL3_fascism_ADJ:0 "Thiois"
- BEL3_communism_ADJ:0 "Belgian"
- BEL3_neutrality_ADJ:0 "Belgian"
+ BEL3_fascism:0 "티오이스 제국"
+ BEL3_fascism_DEF:0 "티오이스 제국"
+ BEL3_GER_fascism:0 "부르군드국"
+ BEL3_GER_fascism_DEF:0 "부르군드국"
+ BEL3_GER_autonomy_dominion:0 "부르군드국"
+ BEL3_GER_autonomy_colony:0 "부르군드국"
+ BEL3_GER_autonomy_puppet:0 "부르군드국"
+ BEL3_GER_autonomy_integrated_puppet:0 "부르군드국"
+ BEL3_GER_autonomy_dominion_DEF:0 "부르군드국"
+ BEL3_GER_autonomy_colony_DEF:0 "부르군드국"
+ BEL3_GER_autonomy_puppet_DEF:0 "부르군드국"
+ BEL3_GER_autonomy_integrated_puppet_DEF:0 "부르군드국"
+ BEL3_communism_DEF:0 "부르군드 인민 공화국"
+ BEL3_neutrality_DEF:0 "로타링기아 왕국"
+ BEL3_fascism_ADJ:0 "티오아스"
+ BEL3_communism_ADJ:0 "벨기에"
+ BEL3_neutrality_ADJ:0 "벨기에"
  
- BEL4_fascism:0 "Dietsche Rijk"
- BEL4_fascism_DEF:0 "Dietsche Rijk"
- BEL4_communism_DEF:0 "Diets People's Republic"
- BEL4_neutrality_DEF:0 "Kingdom of Lotharingia"
- BEL4_fascism_ADJ:0 "Diets"
- BEL4_communism_ADJ:0 "Belgian"
- BEL4_neutrality_ADJ:0 "Belgian" 
+ BEL4_fascism:0 "디츨란트국"
+ BEL4_fascism_DEF:0 "디츨란트국"
+ BEL4_communism_DEF:0 "디츨란트 인민 공화국"
+ BEL4_neutrality_DEF:0 "로타링기아 왕국"
+ BEL4_fascism_ADJ:0 "디츨란트"
+ BEL4_communism_ADJ:0 "벨기에"
+ BEL4_neutrality_ADJ:0 "벨기에" 
 
- BMP_fascism:0 "Rightful Palestinian Mandate"
- BMP_fascism_DEF:0 "The Rightful Palestinian Mandate"
- BMP_conservatism:0 "Republican Mandate of Palestine"
- BMP_conservatism_DEF:0 "The Republican Mandate of Palestine"
- BMP_socialism:0 "Republican Mandate of Palestine"
- BMP_socialism_DEF:0 "The Republican Mandate of Palestine"
- BMP_liberalism:0 "Republican Mandate of Palestine"
- BMP_liberalism_DEF:0 "The Republican Mandate of Palestine"
- BMP_neutrality:0 "Mandatory Palestine"
- BMP_neutrality_DEF:0 "The Mandate of Palestine"
- BMP_communism:0 "People's Mandate of Palestine"
- BMP_communism_DEF:0 "The People's Mandate of Palestine" 
- BMP_fascism_ADJ:0 "Mandatory Palestinian"
- BMP_conservatism_ADJ:0 "Mandatory Palestinian"
- BMP_socialism_ADJ:0 "Mandatory Palestinian"
- BMP_liberalism_ADJ:0 "Mandatory Palestinian"
- BMP_neutrality_ADJ:0 "Mandatory Palestinian" 
- BMP_communism_ADJ:0 "Mandatory Palestinian" 
+ BMP_fascism:0 "정당한 팔레스타인 위임통치령"
+ BMP_fascism_DEF:0 "정당한 팔레스타인 위임통치령"
+ BMP_conservatism:0 "팔레스타인 위임통치령 공화국"
+ BMP_conservatism_DEF:0 "팔레스타인 위임통치령 공화국"
+ BMP_socialism:0 "팔레스타인 위임통치령 공화국"
+ BMP_socialism_DEF:0 "팔레스타인 위임통치령 공화국"
+ BMP_liberalism:0 "팔레스타인 위임통치령 공화국"
+ BMP_liberalism_DEF:0 "팔레스타인 위임통치령 공화국"
+ BMP_neutrality:0 "팔레스타인 위임통치령"
+ BMP_neutrality_DEF:0 "팔레스타인 위임통치령"
+ BMP_communism:0 "팔레스타인 인민 위임통치령"
+ BMP_communism_DEF:0 "팔레스타인 인민 위임통치령" 
+ BMP_fascism_ADJ:0 "팔레스타인 위임통치령"
+ BMP_conservatism_ADJ:0 "팔레스타인 위임통치령"
+ BMP_socialism_ADJ:0 "팔레스타인 위임통치령"
+ BMP_liberalism_ADJ:0 "팔레스타인 위임통치령"
+ BMP_neutrality_ADJ:0 "팔레스타인 위임통치령" 
+ BMP_communism_ADJ:0 "팔레스타인 위임통치령" 
  
- BMP_monarchism:0 "Emirate of Palestine"
+ BMP_monarchism:0 "팔레스타인 토후국"
  ##### maybe Emirate of Palestine if the monarch is an arab? #######
- BMP_monarchism_DEF:0 "The Kingdom of Palestine"
- BMP_monarchism_ADJ:0 "Mandatory Palestinian"
+ BMP_monarchism_DEF:0 "팔레스타인 왕국"
+ BMP_monarchism_ADJ:0 "팔레스타인 위임통치령"
  
- JOR_monarchism:0 "Emirate of Transjordan"
- JOR_monarchism_DEF:0 "The Emirate of Transjordan"
- JOR_monarchism_ADJ:0 "Jordanian"  
+ JOR_monarchism:0 "트란스요르단 토후국"
+ JOR_monarchism_DEF:0 "트란스요르단 토후국"
+ JOR_monarchism_ADJ:0 "요르단"  
  
  
- SAP_fascism:0 "Saarland Protectorate"
- SAP_fascism_DEF:0 "The Saarland Protectorate"
- SAP_conservatism:0 "Saarland Protectorate"
- SAP_conservatism_DEF:0 "The Saarland Protectorate"
- SAP_liberalism:0 "Saarland Protectorate"
- SAP_liberalism_DEF:0 "The Saarland Protectorate"
- SAP_socialism:0 "Saarland Protectorate"
- SAP_socialism_DEF:0 "The Saarland Protectorate"
- SAP_neutrality:0 "Saarland Protectorate"
- SAP_neutrality_DEF:0 "The Saarland Protectorate"
- SAP_communism:0 "Saarland Protectorate"
- SAP_communism_DEF:0 "The Saarland Protectorate"
- SAP_monarchism:0 "Saarland Protectorate"
- SAP_monarchism_DEF:0 "The Saarland Protectorate"
- SAP_fascism_ADJ:0 "Saarlander"
- SAP_conservatism_ADJ:0 "Saarlander"
- SAP_liberalism_ADJ:0 "Saarlander"
- SAP_socialism_ADJ:0 "Saarlander"
- SAP_neutrality_ADJ:0 "Saarlander"
- SAP_communism_ADJ:0 "Saarlander"
- SAP_monarchism_ADJ:0 "Saarlander"
+ SAP_fascism:0 "자를란트 보호령"
+ SAP_fascism_DEF:0 "자를란트 보호령"
+ SAP_conservatism:0 "자를란트 보호령"
+ SAP_conservatism_DEF:0 "자를란트 보호령"
+ SAP_liberalism:0 "자를란트 보호령"
+ SAP_liberalism_DEF:0 "자를란트 보호령"
+ SAP_socialism:0 "자를란트 보호령"
+ SAP_socialism_DEF:0 "자를란트 보호령"
+ SAP_neutrality:0 "자를란트 보호령"
+ SAP_neutrality_DEF:0 "자를란트 보호령"
+ SAP_communism:0 "자를란트 보호령"
+ SAP_communism_DEF:0 "자를란트 보호령"
+ SAP_monarchism:0 "자를란트 보호령"
+ SAP_monarchism_DEF:0 "자를란트 보호령"
+ SAP_fascism_ADJ:0 "자를란트"
+ SAP_conservatism_ADJ:0 "자를란트"
+ SAP_liberalism_ADJ:0 "자를란트"
+ SAP_socialism_ADJ:0 "자를란트"
+ SAP_neutrality_ADJ:0 "자를란트"
+ SAP_communism_ADJ:0 "자를란트"
+ SAP_monarchism_ADJ:0 "자를란트"
  
- RKU_fascism:0 "Reichskommissariat Ukraine"
- RKU_fascism_DEF:0 "The Reichskommissariat Ukraine"
+ RKU_fascism:0 "국가판무관부 우크라이나"
+ RKU_fascism_DEF:0 "국가판무관부 우크라이나"
  
- RKP_fascism:0 "Generalgouvernment"
- RKP_fascism_DEF:0 "The Generalgouvernment"
+ RKP_fascism:0 "총독부"
+ RKP_fascism_DEF:0 "총독부"
  
- RKO_fascism:0 "Reichskommissariat Ostland"
- RKO_fascism_DEF:0 "The Reichskommissariat Ostland"
+ RKO_fascism:0 "국가판무관부 오스트란트"
+ RKO_fascism_DEF:0 "국가판무관부 오스트란트"
  
- RKN_fascism:0 "Reichskommissariat Norwegen"
- RKN_fascism_DEF:0 "The Reichskommissariat Norwegen"
+ RKN_fascism:0 "국가판무관부 노르웨이"
+ RKN_fascism_DEF:0 "국가판무관부 노르웨이"
  
- RKM_fascism:0 "Reichskommissariat Moskowien"
- RKM_fascism_DEF:0 "The Reichskommissariat Moskowien"
+ RKM_fascism:0 "국가판무관부 모스코비옌"
+ RKM_fascism_DEF:0 "국가판무관부 모스코비옌"
  
- RKH_fascism:0 "Reichskommissariat Holland"
- RKH_fascism_DEF:0 "The Reichskommissariat Holland"
+ RKH_fascism:0 "국가판무관부 네덜란드"
+ RKH_fascism_DEF:0 "국가판무관부 네덜란드"
  
- RKB_fascism:0 "Reichskommissariat Belgien"
- RKB_fascism_DEF:0 "The Reichskommissariat Belgien"
+ RKB_fascism:0 "국가판무관부 벨기에"
+ RKB_fascism_DEF:0 "국가판무관부 벨기에"
  
- RKA_fascism:0 "Reichskommissariat Mittelafrika"
- RKA_fascism_DEF:0 "The Reichskommissariat Mittelafrika"
+ RKA_fascism:0 "국가판무관부 중앙아프리카"
+ RKA_fascism_DEF:0 "국가판무관부 중앙아프리카"
  
- RKI_fascism:0 "Reichskommissariat Italien" #using RSI now
- RKI_fascism_DEF:0 "The Reichskommissariat Italien"
+ RKI_fascism:0 "국가판무관부 이탈리아" #using RSI now
+ RKI_fascism_DEF:0 "국가판무관부 이탈리아"
  
- EHA_fascism:0 "East Hopeh Anti-Communism Autonomous Council"
- EHA_fascism_ADJ:0 "Chinese"
- EHA_fascism_DEF:0 "The East Hopeh Anti-Communism Autonomous Council"
- EHA_neutrality:0 "East Hopeh Anti-Japanese Council"
- EHA_neutrality_ADJ:0 "Chinese"
- EHA_neutrality_DEF:0 "The East Hopeh Anti-Japanese Council"
- EHA_democracy:0 "Democratic State of East Hopeh"
- EHA_democracy_ADJ:0 "Chinese"
- EHA_democracy_DEF:0 "The Democratic State of East Hopeh"
- EHA_communism:0 "East Hopeh Commune"
- EHA_communism_ADJ:0 "Chinese"
- EHA_communism_DEF:0 "The East Hopeh Commune"
- RGR_fascism:0 "Reformed Government of Republic of China"
- RGR_fascism_ADJ:0 "Chinese"
- RGR_fascism_DEF:0 "The Reformed Government of Republic of China"
- RGR_neutrality:0 "Reformed Government of Republic of China"
- RGR_neutrality_ADJ:0 "Chinese"
- RGR_neutrality_DEF:0 "The Reformed Government of Republic of China"
- RGR_democracy:0 "Democratic Republic of China"
- RGR_democracy_ADJ:0 "Chinese"
- RGR_democracy_DEF:0 "The Democratic Republic of China"
- RGR_communism:0 "Chinese Socialist State"
- RGR_communism_ADJ:0 "Chinese"
- RGR_communism_DEF:0 "The Chinese Socialist State"
- PGR_neutrality:0 "Xin Beiyang"
- PGR_neutrality_ADJ:0 "Chinese"
- PGR_neutrality_DEF:0 "The Xin Beiyang Government"
- PGR_democracy:0 "Beiyang Republic"
- PGR_democracy_ADJ:0 "Chinese"
- PGR_democracy_DEF:0 "The Beiyang Republic"
- PGR_communism:0 "Beiyang Socialist Republic"
- PGR_communism_ADJ:0 "Chinese"
- PGR_communism_DEF:0 "The Beiyang Socialist Republic"
- ECR_fascism:0 "Guizhou Special Autonomous Region"
- ECR_fascism_DEF:0 "The Guizhou Special Autonomous Region"
- ECR_fascism_ADJ:0 "Chinese"
- ECR_communism:0 "Guizhou Commune"
- ECR_communism_DEF:0 "The Guizhou Commune"
- ECR_communism_ADJ:0 "Chinese"
- ECR_democratic:0 "Guizhou Republic"
- ECR_democratic_DEF:0 "The Guizhou Republic"
- ECR_democratic_ADJ:0 "Chinese"
- ECR_neutrality:0 "Guizhou Autonomous Committee"
- ECR_neutrality_DEF:0 "The Guizhou Autonomous Committee"
- ECR_neutrality_ADJ:0 "Chinese"
+ EHA_fascism:0 "동허베이 반공 자치 의회"
+ EHA_fascism_ADJ:0 "중국"
+ EHA_fascism_DEF:0 "동허베이 반공 자치 의회"
+ EHA_neutrality:0 "동허베이 반일 의회"
+ EHA_neutrality_ADJ:0 "중국"
+ EHA_neutrality_DEF:0 "동허베이 반일 의회"
+ EHA_democracy:0 "동허베이 민주국"
+ EHA_democracy_ADJ:0 "중국"
+ EHA_democracy_DEF:0 "동허베이 민주국"
+ EHA_communism:0 "동허베이 코뮌"
+ EHA_communism_ADJ:0 "중국"
+ EHA_communism_DEF:0 "동허베이 코뮌"
+ RGR_fascism:0 "중화민국 개혁정부"
+ RGR_fascism_ADJ:0 "중국"
+ RGR_fascism_DEF:0 "중화민국 개혁정부"
+ RGR_neutrality:0 "중화 민주 공화국"
+ RGR_neutrality_ADJ:0 "중국"
+ RGR_neutrality_DEF:0 "중화 민주 공화국"
+ RGR_democracy:0 "중화 민주 공화국"
+ RGR_democracy_ADJ:0 "중국"
+ RGR_democracy_DEF:0 "중화 민주 공화국"
+ RGR_communism:0 "중국 사회주의국"
+ RGR_communism_ADJ:0 "중국"
+ RGR_communism_DEF:0 "중국 사회주의국"
+ PGR_neutrality:0 "진북양"
+ PGR_neutrality_ADJ:0 "중국"
+ PGR_neutrality_DEF:0 "진북양 정부"
+ PGR_democracy:0 "북양 공화국"
+ PGR_democracy_ADJ:0 "중국"
+ PGR_democracy_DEF:0 "북양 공화국"
+ PGR_communism:0 "북양 사회주의 공화국"
+ PGR_communism_ADJ:0 "중국"
+ PGR_communism_DEF:0 "북양 사회주의 공화국"
+ ECR_fascism:0 "구이저우 특별 자치구"
+ ECR_fascism_DEF:0 "구이저우 특별 자치구"
+ ECR_fascism_ADJ:0 "중국"
+ ECR_communism:0 "구이저우 코뮌"
+ ECR_communism_DEF:0 "구이저우 코뮌"
+ ECR_communism_ADJ:0 "중국"
+ ECR_democratic:0 "구이저우 공화국"
+ ECR_democratic_DEF:0 "구이저우 공화국"
+ ECR_democratic_ADJ:0 "중국"
+ ECR_neutrality:0 "구이저우 자치위원회"
+ ECR_neutrality_DEF:0 "구이저우 자치위원회"
+ ECR_neutrality_ADJ:0 "중국"
  ##############whenever you create new cosmetic tags, you'd wanna add them to common/scripted_effects/00_scripted_effects.txt
  ## EOF ## 
