@@ -11,7 +11,7 @@
  DEPLOYMENT_TEMPLATE_ITEM_ADD:0 "§G클릭으로 배치 대기열에 추가§!"
  DEPLOYMENT_TEMPLATE_ITEM_COPY:0 "§G클릭으로 배치 가능 편제 복사§!"
  DEPLOYMENT_TEMPLATE_ITEM_EDIT:0 "§G클릭으로 사단 편제 편집§!"
- DEPLOYMENT_TEMPLATE_ITEM_VIEW:0 "§G클릭으로 사단 편제 보기§!"
+ DEPLOYMENT_TEMPLATE_ITEM_VIEW: "§G클릭으로 사단 편제 보기§!"
  DEPLOYMENT_TRAINING:0 "훈련: $VALUE|%Y0$ $MAXVALUE|$"
  DEPLOYMENT_TRAINING_MAXVALUE_DESC:0 "/ $VALUE|H%0$ ( 배치병력의 최대 경험치는 장비의 양에 따라 달라집니다. )"
  DEPLOYMENT_CURRENT_LEVEL:0 "현재 병력 배치의 수준은 다음과 같습니다 $NUMBER$ ( $LEVEL|%Y0$ )"
