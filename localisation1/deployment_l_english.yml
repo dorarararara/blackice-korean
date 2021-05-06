@@ -140,7 +140,7 @@
  UPGRADES_DESC:0 "§T현재 업그레이드 요청 없음 배치 대기열과 증강 을 비교하여 활성 부대를 업그레이드 할 장비의 우선 순위를 설정합니다§!"
  UPGRADES_EMPTY:0 "§G현재 업그레이드 요청 없음.§!"
  UPGRADE_HIGH_PRIORITY:0 "§T높은 업그레이드 우선 순위§!"
- UPGRADE_MEDIUM_PRIORITY:0 "§T낮보통업그레이드 우선 순위§!"
+ UPGRADE_MEDIUM_PRIORITY:0 "§T보통 업그레이드 우선 순위§!"
  UPGRADE_LOW_PRIORITY:0 "§T낮은 업그레이드 우선 순위§!"
  group_artillery_title:0 "주력 지원 대대"
  group_schutzstaffel_infantry_title:0 "SS 보병 대대"
