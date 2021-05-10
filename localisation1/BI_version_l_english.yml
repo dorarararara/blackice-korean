@@ -2,32 +2,30 @@
  #BICE version #
  
  ### IMPORTANT ### -Also adjust GetVersion in common/scripted_localisation/
- BICE_version:0 "Black ICE 5.1.3"
- BICE_checksum:0 "9285" #both this and the value below should always be the same
- BICE_checksum_and_desc:0 "Correct Checksum: 9285" #should always be the same as the value above
+ BICE_version:0 "Black ICE 5.1.4"
+ BICE_checksum:0 "f6d9" #both this and the value below should always be the same don't forget to remove the git stuff before uploading
+ BICE_checksum_and_desc:0 "Correct Checksum: f6d9" #should always be the same as the value above
  BICE_checksum_desc:0 "Correct Checksum:"
  
  ### IMPORTANT ###
- BICE_STARTUP_TITLE:0 "General update info"
- BICE_STARTUP_DESC:0 "This update 5.1.3 is the compatability patch BFTB / 1.10.1 / 1.10.2 / 1.10.3. We did a Heavy AA rework which moved the first model to 1937, reduced SA/HA piercing until dual-role techs are researched. We also added a dissent system on the political level. We added a notification system for the SS which by default is set to off. And we added in a AI-strategy-plan for DENMARK. Besides those additions we managed with the help of our playtesters to allocate lots of bugs and fixed those. For a detailed overview download the changelog v513 from steam."
+ BICE_STARTUP_TITLE:0 "3D Models"
+ BICE_STARTUP_DESC:0 "We added 311 plane models for all Majors. Each aircraft has new propeller animation, historical amount of machineguns and different bombload (CAS, HV FIGHTER 500kg bomb animation, STRAT BOMBERS 5000kg bomb and others 2x1000kg bomb). We have increased the number of air scenes from 3 to 5 so now the sky is filled with planes to show true air combat!"
  BICE_STARTUP_GENERAL_DESC:0 ""
  #LAND
- BICE_STARTUP_LAND_UPDATE_TITLE:0 "LAND"
- BICE_STARTUP_LAND_UPDATE_DESC:0 "We added for the AI more templates and strategy adjustments. New is the SS-notification system. Default setting is off. It can be switched on in the Waffen SS Division Builder in the topright corner. If switched on it will notify the player at the beginning of the month if and when a SS-unit is available for deployment. It will §Rnot auto deploy§! the unit."
+ BICE_STARTUP_LAND_UPDATE_TITLE:0 "Historical Ship Designs"
+ BICE_STARTUP_LAND_UPDATE_DESC:0 "For those who wish to use historical ships in their games, the historical ship designer allows you to easily select which class and which model to use. This UI is accessible by clicking on the golden ship button on the top right of the production screen. With the simple click of a button, a new design will be available to you in the ship designer. You are able to modify this design as you see fit, just like with any other design you have. In order to acquire the design, you must first fulfill all of the technology requirements shown in the tooltip of the design you wish to build, as well as the Naval XP requirements."
  #AIR
- BICE_STARTUP_AIR_UPDATE_TITLE:0 "AIR"
- BICE_STARTUP_AIR_UPDATE_DESC:0 "Air Strength calculation has been reworked and enhanced, with different aircraft categories now having slightly different weights. In addition, stockpiled (non-deployed) aircraft now also contribute to air strength, with 50% of the value of deployed aircraft."
+ BICE_STARTUP_AIR_UPDATE_TITLE:0 "Civilian Fuel"
+ BICE_STARTUP_AIR_UPDATE_DESC:0 "Civilian Fuel has been changed from a passive fuel reduction to an active one. The fuel need per state is determined based on population and IC, which then gets used up from your Stockpile. This is enabled for Minor AIs as well to encourage trade."
  #Former_version_text:0 "Aircraft and Air Combat has been extensively reworked. Data for every aircraft has been reviewed and adjusted based on common formulae for firepower, defence, agility and cost. Range/payload data has been adjusted based on typical ranges at specific loads. Air Combat values have been reworked to result in higher operational and combat losses. Air Tech Trees have been reviewed, in some cases reorganized, and cleaned up. The following new aircraft types were added; Light Fighter, Navy Multirole, Navy Interceptor, Carrier Multirole, Night Fighter, Heavy Naval Bomber, Naval Bomber (guided bombs). Transport aircraft models were added to countries without them."
  #NAVAL
- BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Navy"
- BICE_STARTUP_NAVY_UPDATE_DESC:0 "For non-MtG users, issues with broken modules preventing construction of some ship designs including the first Carrier model have been fixed. For MtG, the addition of the armoured flight deck & open hangar advanced carrier module was added (USS Midway style). Various minor fixes to modules balance are also included."
+ BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Performance"
+ BICE_STARTUP_NAVY_UPDATE_DESC:0 "We have done some extensive optimization to the most performance demanding code to hopefully increase the gamespeed. Results may vary of course, but especially the early and midgame should run faster now."
  #Politics
- BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Politics"
- BICE_STARTUP_FOCUS_UPDATE_DESC:0 "There are 2 new ideologies in Bice now, the 1st is Agarianism which is a new type of democratic ideology and will function in a similar way to the other 3, The other one is Dissent, you never want dissent to grow and as it does more and more 'problems' with your government will be exposed forcing you to make hard choices, Of course you could just ignore the problem but it will mean you can't skip the next one. Democracies are slightly better at not gaining too much dissent, where as less free governments will be able to ignore it for longer"
+ BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Balance"
+ BICE_STARTUP_FOCUS_UPDATE_DESC:0 "There have been tons of balance changes to land units, the most notable example being every Armor Unit being majorly buffed in terms of cost effectiveness."
 
- #NATIONAL FOCUS
- BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "National Focus Trees"
- BICE_STARTUP_FOCUS_UPDATE_DESC:0 "The NF for Greece is nerfed and got some extra focusses. Added research-filter to NF which give tech-slots. Possibility for generic nation to purchase airplanes. In the FIN NF we added a mutually-exlusive for some ahistorical focusses.For the SWE NF we have done some tweaks and fixed several errors. IRE got an extra check when IRE leaves the ALLIES. If ALLIES is already at war with GER then IRE will leave the war. Fixed FRA military research overlapping. Fixed several late game errors in NF for several countries.Updated some descriptions for GER Waffen SS and Luftwaffe Field-Div. focusses."
+ #NATIONAL FOCUS 
  #BICE_STARTUP_FOCUS_UPDATE_DESC:0 "We have fixed several issues and tweaked some Nation Focusses for TUR, ENG, RAJ and HUN. We gave the generic NF some better options for human-control on micro-nations. We have reduced the continous air production focus bonuses."
  
  #EQUIPMENT
@@ -43,8 +41,8 @@
  BICE_STARTUP_MISC_UPDATE_DESC:0 "We have made some performance tweaks for ENG adresses USA conference. Big performance improvement. Possible fix for save error. Lowered FIELD_EXPERIENCE_SCALE, FIELD_EXPERIENCE_MAX_PER_DAY, AIR_WING_XP_LOSS_WHEN_KILLED in defines. We tried to fix map flickering issue."
  
  #FUTURE
- BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "COMING IN NEAR FUTURE"
- BICE_STARTUP_FUTURE_UPDATE_DESC:0 "On going projects: ROMANIA National Focus, TURKEY National Focus.\nIndustry Rework:\nThis project is delayed. It will provide you with new resources, buildings etc. One of those recources is iron-ore(§Yresource§!) and this needs to be processed(§Ybuilding§!) to get steel(§Yproduct§!). This is just one example we are trying to accomplish."
+ BICE_STARTUP_FUTURE_UPDATE_TITLE:0 "Next Features being worked on:"
+ BICE_STARTUP_FUTURE_UPDATE_DESC:0 "\n Assault Infantry \n Small Ships \n Soviet Rework \n China Rework \n Romania Rework \n ENG & FRA Focus Trees \n 3d Models for Land & Naval Units \n Performance & AI Improvements \n Industry Rework"
  #### END STARTUP MENU ####
  
  BI_P_DELETE_UNITS_TT:0 "Deletes the Units of all selected countries."
@@ -61,6 +59,21 @@
  BI_P_OPEN_COUNTRY_LIST_TT:0 "§YClick§! to select a country"
  BI_P_CLEAR_SELECTED_COUNTRIES_TT:0 "§YClick§! to clear selected countries"
  
+ BI_AI_SELECTED_DIVISION_TYPES_TEXT:0 "[BI_AI_GetInfantrySpawn][BI_AI_GetMotorizedSpawn][BI_AI_GetMediumArmorSpawn][BI_AI_GetHeavyArmorSpawn][BI_AI_GetSpecialForcesSpawn][BI_AI_GetAllSpawn]"
+ BI_AI_SELECTED_DIVISION_FREQUENCY_TEXT:0 "[BI_AI_GetDivisionSpawnFrequency]"
+ BI_AI_SELECTED_DIVISION_LIMIT_TEXT:0 "[BI_AI_GetDivisionSpawnLimit]"
+ 
+ BI_AI_SELECTED_EQUIPMENT_TYPES_TEXT:0 "[BI_AI_GetInfantryIC][BI_AI_GetArtilleryIC][BI_AI_GetArmorIC][BI_AI_GetAllIC]"
+ BI_AI_SELECTED_EQUIPMENT_TRIGGERS_TEXT:0 "[BI_AI_GetNoStockpileIC][BI_AI_Get95%IC][BI_AI_Get90%IC][BI_AI_Get80%IC][BI_AI_Get70%IC][BI_AI_Get60%IC][BI_AI_Get50%IC]"
+ 
+ BI_AI_SELECTED_EQUIPMENT_SPAWN_TYPES_TEXT:0 "[BI_AI_GetInfantryEqSpawn][BI_AI_GetArtilleryEqSpawn][BI_AI_GetArmorEqSpawn][BI_AI_GetAllEqSpawn]"
+ BI_AI_SELECTED_EQUIPMENT_SPAWN_TRIGGERS_TEXT:0 "[BI_AI_GetNoStockpileSpawn][BI_AI_Get95%Spawn][BI_AI_Get90%Spawn][BI_AI_Get80%Spawn][BI_AI_Get70%Spawn][BI_AI_Get60%Spawn][BI_AI_Get50%Spawn]"
+ 
+ BI_AI_SELECTED_BUILDING_REPAIR_TEXT:0 "[BI_AI_GetInfraRepair][BI_AI_GetFactoriesRepair][BI_AI_GetAllRepair]"
+ BI_AI_SELECTED_BUILDING_FREQUENCY_TEXT:0 "[BI_AI_GetWeeklyRepair][BI_AI_GetTwoWeeklyRepair][BI_AI_GetThreeWeeklyRepair][BI_AI_GetFourWeeklyRepair]"
+ 
+ TEST_TOOLTIP_HERE:0 "[BI_AI_GetInfantryIC] NAME"
+ CLICK_NO_EFFECT_TT:0 "§YClicking§! this has no effect at the moment."
  #COUNTRY DESC 
  
  BI_GER_MM_TITLE:0 "Germany at a crossroads"
