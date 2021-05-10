@@ -37,6 +37,7 @@
  TOPBAR_WAR_SUPPORT_TEXT:0 "[This.GetTopbarWarSupport]"
  TOPBAR_COMMAND_POWER_TEXT:0 "[This.GetTopbarCommandPower]"
  TOPBAR_FUEL_TEXT:0 "[This.GetTopbarFuel]"
+ TOPBAR_CIV_FUEL_TEXT:0 "[This.GetTopbarDailyCivFuel]"
  TOPBAR_AGENCY_TEXT:0 "[This.GetTopbarAgency]" 
  TOPBAR_INTEL_TEXT:0 "[This.GetTopbarIntel]"
  TOPBAR_ENIGMA_TEXT:0 "[This.GetTopbarEnigma]"
@@ -72,6 +73,7 @@
  TOPBAR_WAR_SUPPORT_TOOLTIP:0 "[This.GetTopbarTextWarSupportTooltip]"
  TOPBAR_COMMAND_POWER_TOOLTIP:0 "[This.GetTopbarTextCommandPowerTooltip]"
  TOPBAR_FUEL_TOOLTIP:0 "[This.GetTopbarTextFuelTooltip]"
+ TOPBAR_CIV_FUEL_TOOLTIP:0 "[This.GetTopbarTextDailyCivFuelTooltip]"
  TOPBAR_ENIGMA_TOOLTIP:0 "Enigma Decision timeout"
  TOPBAR_AGENCY_TOOLTIP:0 "Showing if our Agency is busy with an upgrade"
  TOPBAR_INTEL_TOOLTIP:0 "[This.GetTopbarTextIntelTooltip]"
@@ -107,6 +109,7 @@
  TOPBAR_WAR_SUPPORT_TITLE:0 "War Support"
  TOPBAR_COMMAND_POWER_TITLE:0 "Command Power"
  TOPBAR_FUEL_TITLE:0 "Fuel"
+ TOPBAR_CIV_FUEL_TITLE:0 "Civilian Fuel Use"
  TOPBAR_ENIGMA_TITLE:0 "Enigma Timeout"
  TOPBAR_AGENCY_TITLE:0 "Intel. Agency"
  TOPBAR_INTEL_TITLE:0 "Intelligence"
@@ -142,6 +145,7 @@
  TOPBAR_LIST_WAR_SUPPORT_TOOLTIP:0 "Selected Type: §Y[This.GetTopbarWarSupportTooltip]§!\n\n§YRight-Click§! to change selected §YWar Support Info§!"
  TOPBAR_LIST_COMMAND_POWER_TOOLTIP:0 "Selected Type: §Y[This.GetTopbarCommandPowerTooltip]§!\n\n§YRight-Click§! to change selected §YCommand Power Info§!"
  TOPBAR_LIST_FUEL_TOOLTIP:0 "Selected Type: §Y[This.GetTopbarFuelTooltip]§!\n\n§YRight-Click§! to change selected §YFuel Info§!"
+ TOPBAR_LIST_CIV_FUEL_TOOLTIP:0 "Daily Civilian Fuel Use"
  TOPBAR_LIST_ENIGMA_TOOLTIP:0 "Enigma"
  TOPBAR_LIST_INTEL_TOOLTIP:0 "Selected Type: §Y[This.GetTopbarIntelTooltip]§!\n\n§YRight-Click§! to change selected §YIntelligence Type§!\n\nThis option is targeted, meaning you can §Yclick§! on the icon of this slot on the topbar to select a country."
  TOPBAR_LIST_AGENCY_TOOLTIP:0 "Agency Status"
@@ -164,7 +168,11 @@
  MAX_AIR_EXPERIENCE_TOOLTIP:0 "§YMaximum Air Experience§!\n\nBase: §Y150.0§![GetMaxAirXP/high_command_trait_air][GetMaxArmyXP/interservice_hq][GetMaxAirXP/corps_hq][GetMaxAirXP/army_hq][GetMaxAirXP/army_group_hq][GetMaxAirXP/supreme_hq][GetMaxArmyXP/officer_train_none][GetMaxArmyXP/officer_train_none_1][GetMaxArmyXP/officer_train_none_2][GetMaxArmyXP/officer_train_none_3][GetMaxArmyXP/officer_train_none_4][GetMaxArmyXP/officer_train_none_5][GetMaxArmyXP/officer_train_low][GetMaxArmyXP/officer_train_low_1][GetMaxArmyXP/officer_train_low_2][GetMaxArmyXP/officer_train_low_3][GetMaxArmyXP/officer_train_low_4][GetMaxArmyXP/officer_train_low_5][GetMaxArmyXP/officer_train_high][GetMaxArmyXP/officer_train_high_1][GetMaxArmyXP/officer_train_high_2][GetMaxArmyXP/officer_train_high_3][GetMaxArmyXP/officer_train_high_4][GetMaxArmyXP/officer_train_high_5][GetMaxArmyXP/officer_train_elite][GetMaxArmyXP/CHI_incompetent_officers]"
  MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§YMaximum Navy Experience§!\n\nBase: §Y150.0§![GetMaxNavyXP/high_command_trait_navy][GetMaxNavyXP/nrm_trade_interdiction][GetMaxNavyXP/nrm_fleet_in_being][GetMaxNavyXP/nrm_decisive_battle][GetMaxArmyXP/interservice_hq][GetMaxAirXP/corps_hq][GetMaxNavyXP/army_hq][GetMaxAirXP/army_group_hq][GetMaxNavyXP/supreme_hq][GetMaxArmyXP/officer_train_none][GetMaxArmyXP/officer_train_none_1][GetMaxArmyXP/officer_train_none_2][GetMaxArmyXP/officer_train_none_3][GetMaxArmyXP/officer_train_none_4][GetMaxArmyXP/officer_train_none_5][GetMaxArmyXP/officer_train_low][GetMaxArmyXP/officer_train_low_1][GetMaxArmyXP/officer_train_low_2][GetMaxArmyXP/officer_train_low_3][GetMaxArmyXP/officer_train_low_4][GetMaxArmyXP/officer_train_low_5][GetMaxArmyXP/officer_train_high][GetMaxArmyXP/officer_train_high_1][GetMaxArmyXP/officer_train_high_2][GetMaxArmyXP/officer_train_high_3][GetMaxArmyXP/officer_train_high_4][GetMaxArmyXP/officer_train_high_5][GetMaxArmyXP/officer_train_elite][GetMaxArmyXP/CHI_incompetent_officers]"
 
-
+ MAX_ARMY_XP_DELAYED_TT:0 "Maximum Army Experience shows the amount of Army Experience your country can store at any given time. It can be increased by improving the §YOfficer Training Standards§! or by researching the §YCommand Doctrine§! technologies."
+ MAX_AIR_XP_DELAYED_TT:0 "Maximum Air Experience shows the amount of Air Experience your country can store at any given time. It can be increased by improving the §YOfficer Training Standards§! or by researching the §YCommand Doctrine§! technologies."
+ MAX_NAVY_XP_DELAYED_TT:0 "Maximum Navy Experience shows the amount of Navy Experience your country can store at any given time. It can be increased by improving the §YOfficer Training Standards§!, by researching the §YCommand Doctrine§! or §YNaval Doctrine§! technologies."
+ 
+ BASE_TOPBAR_STABILITY_TOOLTIP:0 "§YClick§! to change displayed information:\n\n[GetTopbarStability1]\n[GetTopbarStability2]\n[GetTopbarStability3]"
  
  TOPBAR_STABILITY_CURRENT_TT:0 "Stability"
  TOPBAR_STABILITY_WEEKLY_TT:0 "Weekly Stability"
@@ -175,10 +183,10 @@
  TOPBAR_STABILITY_FACTOR_ACTIVE_TT:0 "§YStability Factor§!"
  
  TOPBAR_STABILITY_CURRENT:0 "[GetTopbarStabilityDecimals]"
- TOPBAR_STABILITY_WEEKLY:0 "[?modifier@stability_weekly|2%][GetStability]"
- TOPBAR_STABILITY_FACTOR:0 "[?modifier@stability_factor|%] "
+ TOPBAR_STABILITY_WEEKLY:0 "[?modifier@stability_weekly|1%][GetStability]"
+ TOPBAR_STABILITY_FACTOR:0 "[?modifier@stability_factor|1%] "
  
- 
+ BASE_TOPBAR_WAR_SUPPORT_TOOLTIP:0 "§YClick§! to change displayed information:\n\n[GetTopbarWarSupport1]\n[GetTopbarWarSupport2]\n[GetTopbarWarSupport3]"
 
  TOPBAR_WAR_SUPPORT_CURRENT_TT:0 "War Support"
  TOPBAR_WAR_SUPPORT_WEEKLY_TT:0 "Weekly War Support"
@@ -209,7 +217,7 @@
  
  
  TOPBAR_MANPOWER_TOOLTIP:0 "§YClick§! to change displayed information:\n\n[GetTopbarManpower1]\n[GetTopbarManpower2]\n[GetTopbarManpower3]\n[GetTopbarManpower4]"
- 
+ CONSCRIPTION_PROGRESS_TT:0 "Manpower Mobilization is §Y[?temp1|0]%§! complete"
  TOPBAR_MANPOWER_CURRENT_TT:0 "Manpower"
  TOPBAR_MANPOWER_FOREIGN_TT:0 "Foreign Manpower"
  TOPBAR_MANPOWER_TARGET_CONSCRIPTION_TT:0 "Target Conscription"
@@ -234,14 +242,14 @@
  TOPBAR_ALUMINIUM_IMPORTED:0 "[?resource_imported@aluminium]"
  TOPBAR_ALUMINIUM_EXPORTED:0 "[?resource_produced@aluminium]"
  
- TOPBAR_ALUMINIUM_STORAGE_TT:0 "Storaged Aluminium"
+ TOPBAR_ALUMINIUM_STORAGE_TT:0 "Stored Aluminium"
  TOPBAR_ALUMINIUM_TOTAL_TT:0 "Total Aluminium"
  TOPBAR_ALUMINIUM_PRODUCED_TT:0 "Produced Aluminium"
  TOPBAR_ALUMINIUM_CONSUMED_TT:0 "Consumed Aluminium"
  TOPBAR_ALUMINIUM_IMPORTED_TT:0 "Imported Aluminium"
  TOPBAR_ALUMINIUM_EXPORTED_TT:0 "Exported Aluminium"
  
- TOPBAR_ALUMINIUM_STORAGE_ACTIVE_TT:0 "§YStoraged Aluminium§!"
+ TOPBAR_ALUMINIUM_STORAGE_ACTIVE_TT:0 "§YStored Aluminium§!"
  TOPBAR_ALUMINIUM_TOTAL_ACTIVE_TT:0 "§YTotal Aluminium§!"
  TOPBAR_ALUMINIUM_PRODUCED_ACTIVE_TT:0 "§YProduced Aluminium§!"
  TOPBAR_ALUMINIUM_CONSUMED_ACTIVE_TT:0 "§YConsumed Aluminium§!"
@@ -258,14 +266,14 @@
  TOPBAR_RUBBER_IMPORTED:0 "[?resource_imported@rubber]"
  TOPBAR_RUBBER_EXPORTED:0 "[?resource_produced@rubber]"
  
- TOPBAR_RUBBER_STORAGE_TT:0 "Storaged Rubber"
+ TOPBAR_RUBBER_STORAGE_TT:0 "Stored Rubber"
  TOPBAR_RUBBER_TOTAL_TT:0 "Total Rubber"
  TOPBAR_RUBBER_PRODUCED_TT:0 "Produced Rubber"
  TOPBAR_RUBBER_CONSUMED_TT:0 "Consumed Rubber"
  TOPBAR_RUBBER_IMPORTED_TT:0 "Imported Rubber"
  TOPBAR_RUBBER_EXPORTED_TT:0 "Exported Rubber"
  
- TOPBAR_RUBBER_STORAGE_ACTIVE_TT:0 "§YStoraged Rubber§!"
+ TOPBAR_RUBBER_STORAGE_ACTIVE_TT:0 "§YStored Rubber§!"
  TOPBAR_RUBBER_TOTAL_ACTIVE_TT:0 "§YTotal Rubber§!"
  TOPBAR_RUBBER_PRODUCED_ACTIVE_TT:0 "§YProduced Rubber§!"
  TOPBAR_RUBBER_CONSUMED_ACTIVE_TT:0 "§YConsumed Rubber§!"
@@ -282,14 +290,14 @@
  TOPBAR_TUNGSTEN_IMPORTED:0 "[?resource_imported@tungsten]"
  TOPBAR_TUNGSTEN_EXPORTED:0 "[?resource_produced@tungsten]"
  
- TOPBAR_TUNGSTEN_STORAGE_TT:0 "Storaged Tungsten"
+ TOPBAR_TUNGSTEN_STORAGE_TT:0 "Stored Tungsten"
  TOPBAR_TUNGSTEN_TOTAL_TT:0 "Total Tungsten"
  TOPBAR_TUNGSTEN_PRODUCED_TT:0 "Produced Tungsten"
  TOPBAR_TUNGSTEN_CONSUMED_TT:0 "Consumed Tungsten"
  TOPBAR_TUNGSTEN_IMPORTED_TT:0 "Imported Tungsten"
  TOPBAR_TUNGSTEN_EXPORTED_TT:0 "Exported Tungsten"
  
- TOPBAR_TUNGSTEN_STORAGE_ACTIVE_TT:0 "§YStoraged Tungsten§!"
+ TOPBAR_TUNGSTEN_STORAGE_ACTIVE_TT:0 "§YStored Tungsten§!"
  TOPBAR_TUNGSTEN_TOTAL_ACTIVE_TT:0 "§YTotal Tungsten§!"
  TOPBAR_TUNGSTEN_PRODUCED_ACTIVE_TT:0 "§YProduced Tungsten§!"
  TOPBAR_TUNGSTEN_CONSUMED_ACTIVE_TT:0 "§YConsumed Tungsten§!"
@@ -306,14 +314,14 @@
  TOPBAR_STEEL_IMPORTED:0 "[?resource_imported@steel]"
  TOPBAR_STEEL_EXPORTED:0 "[?resource_produced@steel]"
  
- TOPBAR_STEEL_STORAGE_TT:0 "Storaged Steel"
+ TOPBAR_STEEL_STORAGE_TT:0 "Stored Steel"
  TOPBAR_STEEL_TOTAL_TT:0 "Total Steel"
  TOPBAR_STEEL_PRODUCED_TT:0 "Produced Steel"
  TOPBAR_STEEL_CONSUMED_TT:0 "Consumed Steel"
  TOPBAR_STEEL_IMPORTED_TT:0 "Imported Steel"
  TOPBAR_STEEL_EXPORTED_TT:0 "Exported Steel"
  
- TOPBAR_STEEL_STORAGE_ACTIVE_TT:0 "§YStoraged Steel§!"
+ TOPBAR_STEEL_STORAGE_ACTIVE_TT:0 "§YStored Steel§!"
  TOPBAR_STEEL_TOTAL_ACTIVE_TT:0 "§YTotal Steel§!"
  TOPBAR_STEEL_PRODUCED_ACTIVE_TT:0 "§YProduced Steel§!"
  TOPBAR_STEEL_CONSUMED_ACTIVE_TT:0 "§YConsumed Steel§!"
@@ -330,14 +338,14 @@
  TOPBAR_CHROMIUM_IMPORTED:0 "[?resource_imported@chromium]"
  TOPBAR_CHROMIUM_EXPORTED:0 "[?resource_produced@chromium]"
  
- TOPBAR_CHROMIUM_STORAGE_TT:0 "Storaged Chromium"
+ TOPBAR_CHROMIUM_STORAGE_TT:0 "Stored Chromium"
  TOPBAR_CHROMIUM_TOTAL_TT:0 "Total Chromium"
  TOPBAR_CHROMIUM_PRODUCED_TT:0 "Produced Chromium"
  TOPBAR_CHROMIUM_CONSUMED_TT:0 "Consumed Chromium"
  TOPBAR_CHROMIUM_IMPORTED_TT:0 "Imported Chromium"
  TOPBAR_CHROMIUM_EXPORTED_TT:0 "Exported Chromium"
  
- TOPBAR_CHROMIUM_STORAGE_ACTIVE_TT:0 "§YStoraged Chromium§!"
+ TOPBAR_CHROMIUM_STORAGE_ACTIVE_TT:0 "§YStored Chromium§!"
  TOPBAR_CHROMIUM_TOTAL_ACTIVE_TT:0 "§YTotal Chromium§!"
  TOPBAR_CHROMIUM_PRODUCED_ACTIVE_TT:0 "§YProduced Chromium§!"
  TOPBAR_CHROMIUM_CONSUMED_ACTIVE_TT:0 "§YConsumed Chromium§!"
