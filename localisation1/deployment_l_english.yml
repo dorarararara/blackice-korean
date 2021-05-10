@@ -80,7 +80,7 @@
  TEMPLATE_PRIO_1_DESC:0 "이 편제로 지정된 병력은 배치되면 일반적인 우선순위로 보급 및 증원이 이루어집니다."
  TEMPLATE_PRIO_2:0 "정예"
  TEMPLATE_PRIO_2_DESC:0 "이 편제로 지정된 병력은 배치되면 최우선으로 장비를 보급받게 됩니다. 당신의 정예 부대와 그들이 활약할 수 있는 곳에 적합합니다."
- DEPLOYMENT_LEND_LEASE_COUNTRY:0 "무기 대여: $COUNTRY$"
+ DEPLOYMENT_LEND_LEASE_COUNTRY:0 "$COUNTRY$"
  ADD_CONVEYOR_LINE_BUTTON_LABEL:0 "부대 추가"
  ADD_CONVEYOR_LINE_BUTTON_DESC:0 "병렬로 생산될 $CONVEYOR|H$ 병력을 추가합니다. \n\n§GShift + 클릭§! 라인 5개 추가합니다."
  CONVEYOR_GENERIC_NAME_EDIT_DESC:0 "여기에 입력해서 배치되는 이름을 변경할 수 있습니다."
