@@ -80,7 +80,7 @@
  TEMPLATE_PRIO_1_DESC:0 "Units with this template get average priority for equipment and reinforcement once deployed."
  TEMPLATE_PRIO_2:0 "Elite"
  TEMPLATE_PRIO_2_DESC:0 "Units with this template will receive equipment before anyone else once deployed and at highest priority. Use for your best men and where they can do the most good."
- DEPLOYMENT_LEND_LEASE_COUNTRY:0 "Lend-Lease: $COUNTRY$"
+ DEPLOYMENT_LEND_LEASE_COUNTRY:0 "$COUNTRY$"
  ADD_CONVEYOR_LINE_BUTTON_LABEL:0 "Add Unit"
  ADD_CONVEYOR_LINE_BUTTON_DESC:0 "Adds another unit of $CONVEYOR|H$ to be produced in parallel.\n\n§GShift+Click§! to add 5 lines"
  CONVEYOR_GENERIC_NAME_EDIT_DESC:0 "Type here to change deployment generic name."
