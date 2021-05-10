@@ -37,6 +37,7 @@
  TOPBAR_WAR_SUPPORT_TEXT:0 "[This.GetTopbarWarSupport]"
  TOPBAR_COMMAND_POWER_TEXT:0 "[This.GetTopbarCommandPower]"
  TOPBAR_FUEL_TEXT:0 "[This.GetTopbarFuel]"
+ TOPBAR_CIV_FUEL_TEXT:0 "[This.GetTopbarDailyCivFuel]"
  TOPBAR_AGENCY_TEXT:0 "[This.GetTopbarAgency]" 
  TOPBAR_INTEL_TEXT:0 "[This.GetTopbarIntel]"
  TOPBAR_ENIGMA_TEXT:0 "[This.GetTopbarEnigma]"
@@ -72,6 +73,7 @@
  TOPBAR_WAR_SUPPORT_TOOLTIP:0 "[This.GetTopbarTextWarSupportTooltip]"
  TOPBAR_COMMAND_POWER_TOOLTIP:0 "[This.GetTopbarTextCommandPowerTooltip]"
  TOPBAR_FUEL_TOOLTIP:0 "[This.GetTopbarTextFuelTooltip]"
+ TOPBAR_CIV_FUEL_TOOLTIP:0 "[This.GetTopbarTextDailyCivFuelTooltip]"
  TOPBAR_ENIGMA_TOOLTIP:0 "에니그마 결정 시간 초과"
  TOPBAR_AGENCY_TOOLTIP:0 "기관이 업그레이드로 바쁜지 표시"
  TOPBAR_INTEL_TOOLTIP:0 "[This.GetTopbarTextIntelTooltip]"
@@ -107,6 +109,7 @@
  TOPBAR_WAR_SUPPORT_TITLE:0 "젙쟁 지지도"
  TOPBAR_COMMAND_POWER_TITLE:0 "지휘력"
  TOPBAR_FUEL_TITLE:0 "연료"
+ TOPBAR_CIV_FUEL_TITLE:0 "민간 연료 사용"
  TOPBAR_ENIGMA_TITLE:0 "에니그마 시간 초과"
  TOPBAR_AGENCY_TITLE:0 "정보 기관"
  TOPBAR_INTEL_TITLE:0 "정보"
@@ -142,6 +145,7 @@
  TOPBAR_LIST_WAR_SUPPORT_TOOLTIP:0 "선택된 유형: §Y[This.GetTopbarWarSupportTooltip]§!\n\n선택된 §Y전쟁 지지도 정보§!를 변경하려면 §Y우클릭§!"
  TOPBAR_LIST_COMMAND_POWER_TOOLTIP:0 "선택된 유형: §Y[This.GetTopbarCommandPowerTooltip]§!\n\n선택된 §Y지휘력 정보§!를 변경하려면 §Y우클릭§!"
  TOPBAR_LIST_FUEL_TOOLTIP:0 "선택된 유형: §Y[This.GetTopbarFuelTooltip]§!\n\n선택된 §Y연료 정보§!를 변경하려면 §Y우클릭§!"
+ TOPBAR_LIST_CIV_FUEL_TOOLTIP:0 "매일 민간 연료 사용"
  TOPBAR_LIST_ENIGMA_TOOLTIP:0 "에니그마"
  TOPBAR_LIST_INTEL_TOOLTIP:0 "선택된 유형: §Y[This.GetTopbarIntelTooltip]§!\n\n선택된 §Y정보 유형§!을 변경하려면 §Y우클릭§!\n\n이 옵션은 대상입니다. 즉, 상단 표시줄에 있는 이 슬롯의 아이콘을 §Y클릭§!하여 국가를 선택할 수 있습니다."
  TOPBAR_LIST_AGENCY_TOOLTIP:0 "기관 상태"
@@ -164,10 +168,14 @@
  MAX_AIR_EXPERIENCE_TOOLTIP:0 "§Y최대 공군 경험치§!\n\n기본: §Y150.0§![GetMaxAirXP/high_command_trait_air][GetMaxArmyXP/interservice_hq][GetMaxAirXP/corps_hq][GetMaxAirXP/army_hq][GetMaxAirXP/army_group_hq][GetMaxAirXP/supreme_hq][GetMaxArmyXP/officer_train_none][GetMaxArmyXP/officer_train_none_1][GetMaxArmyXP/officer_train_none_2][GetMaxArmyXP/officer_train_none_3][GetMaxArmyXP/officer_train_none_4][GetMaxArmyXP/officer_train_none_5][GetMaxArmyXP/officer_train_low][GetMaxArmyXP/officer_train_low_1][GetMaxArmyXP/officer_train_low_2][GetMaxArmyXP/officer_train_low_3][GetMaxArmyXP/officer_train_low_4][GetMaxArmyXP/officer_train_low_5][GetMaxArmyXP/officer_train_high][GetMaxArmyXP/officer_train_high_1][GetMaxArmyXP/officer_train_high_2][GetMaxArmyXP/officer_train_high_3][GetMaxArmyXP/officer_train_high_4][GetMaxArmyXP/officer_train_high_5][GetMaxArmyXP/officer_train_elite][GetMaxArmyXP/CHI_incompetent_officers]"
  MAX_NAVY_EXPERIENCE_TOOLTIP:0 "§Y최대 해군 경험치§!\n\n기본: §Y150.0§![GetMaxNavyXP/high_command_trait_navy][GetMaxNavyXP/nrm_trade_interdiction][GetMaxNavyXP/nrm_fleet_in_being][GetMaxNavyXP/nrm_decisive_battle][GetMaxArmyXP/interservice_hq][GetMaxAirXP/corps_hq][GetMaxNavyXP/army_hq][GetMaxAirXP/army_group_hq][GetMaxNavyXP/supreme_hq][GetMaxArmyXP/officer_train_none][GetMaxArmyXP/officer_train_none_1][GetMaxArmyXP/officer_train_none_2][GetMaxArmyXP/officer_train_none_3][GetMaxArmyXP/officer_train_none_4][GetMaxArmyXP/officer_train_none_5][GetMaxArmyXP/officer_train_low][GetMaxArmyXP/officer_train_low_1][GetMaxArmyXP/officer_train_low_2][GetMaxArmyXP/officer_train_low_3][GetMaxArmyXP/officer_train_low_4][GetMaxArmyXP/officer_train_low_5][GetMaxArmyXP/officer_train_high][GetMaxArmyXP/officer_train_high_1][GetMaxArmyXP/officer_train_high_2][GetMaxArmyXP/officer_train_high_3][GetMaxArmyXP/officer_train_high_4][GetMaxArmyXP/officer_train_high_5][GetMaxArmyXP/officer_train_elite][GetMaxArmyXP/CHI_incompetent_officers]"
 
+ MAX_ARMY_XP_DELAYED_TT:0 "최대 육군 경험치는 해당 국가가 특정 시간에 저장할 수 있는 육군 경험치의 양을 나타냅니다. 그것은 §Y장교 훈련 기준§!을 개선하거나 §Y지휘 교리§! 기술을 연구함으로써 증가시킬 수 있습니다."
+ MAX_AIR_XP_DELAYED_TT:0 "최대 공군 경험치는 해당 국가가 특정 시간에 저장할 수 있는 공군 경험치의 양을 나타냅니다. 그것은 §Y장교 훈련 기준§!을 개선하거나 §Y지휘 교리§! 기술을 연구함으로써 증가시킬 수 있습니다."
+ MAX_NAVY_XP_DELAYED_TT:0 "최대 해군 경험치는 해당 국가가 특정 시간에 저장할 수 있는 해군 경험치의 양을 나타냅니다. 그것은 §Y장교 훈련 기준§!을 개선하거나 §Y지휘 교리§! 기술을 연구함으로써 증가시킬 수 있습니다."
 
+ BASE_TOPBAR_STABILITY_TOOLTIP:0 "표시된 정보를 변경하려면 §Y클릭§!:\n\n[GetTopbarStability1]\n[GetTopbarStability2]\n[GetTopbarStability3]"
  
  TOPBAR_STABILITY_CURRENT_TT:0 "안정도"
- TOPBAR_STABILITY_WEEKLY_TT:0 "Weekly Stability"
+ TOPBAR_STABILITY_WEEKLY_TT:0 "매주 안정도"
  TOPBAR_STABILITY_FACTOR_TT:0 "안정도 요인"
  
  TOPBAR_STABILITY_CURRENT_ACTIVE_TT:0 "§Y안정도§!"
@@ -175,10 +183,10 @@
  TOPBAR_STABILITY_FACTOR_ACTIVE_TT:0 "§Y안정도 요인§!"
  
  TOPBAR_STABILITY_CURRENT:0 "[GetTopbarStabilityDecimals]"
- TOPBAR_STABILITY_WEEKLY:0 "[?modifier@stability_weekly|2%][GetStability]"
- TOPBAR_STABILITY_FACTOR:0 "[?modifier@stability_factor|%] "
+ TOPBAR_STABILITY_WEEKLY:0 "[?modifier@stability_weekly|1%][GetStability]"
+ TOPBAR_STABILITY_FACTOR:0 "[?modifier@stability_factor|1%] "
  
- 
+ BASE_TOPBAR_WAR_SUPPORT_TOOLTIP:0 "표시된 정보를 변경하려면 §Y클릭§!:\n\n[GetTopbarWarSupport1]\n[GetTopbarWarSupport2]\n[GetTopbarWarSupport3]"
 
  TOPBAR_WAR_SUPPORT_CURRENT_TT:0 "전쟁 지지도"
  TOPBAR_WAR_SUPPORT_WEEKLY_TT:0 "주간 전쟁 지지도"
@@ -209,7 +217,7 @@
  
  
  TOPBAR_MANPOWER_TOOLTIP:0 "표시된 정보를 변경하려면 §Y클릭§!:\n\n[GetTopbarManpower1]\n[GetTopbarManpower2]\n[GetTopbarManpower3]\n[GetTopbarManpower4]"
- 
+ CONSCRIPTION_PROGRESS_TT:0 "인력 동원 §Y[?temp1|0]%§! 완료"
  TOPBAR_MANPOWER_CURRENT_TT:0 "인력"
  TOPBAR_MANPOWER_FOREIGN_TT:0 "외국 인력"
  TOPBAR_MANPOWER_TARGET_CONSCRIPTION_TT:0 "목표 징병도"
