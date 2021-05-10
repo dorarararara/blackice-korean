@@ -19,7 +19,9 @@
 
  ####### BICE Decisions ########
  law_changes:0 "Implementing Law Changes"
- 
+ cancel_start_diplo:"[GetDiploStartStop]"
+ foreign_minister_start_diplo:"Start Diplomatic Efforts"
+ foreign_minister_cancel_diplo:"Stop Diplomatic Efforts"
  ### Military Buildup
  SS_anger_TT:0 "SS §RAnger:§! [?SS_anger_temp|0-]\n"
  wehrmacht_anger_TT:0 "Wehrmacht §RAnger:§! [?wehrmacht_anger_temp|0-]\n"
@@ -33,6 +35,14 @@
  GER_Wach_rgt:0 "Start 'Großdeutschland' event-chain. "
  GER_gd_regt:0 "Form the Inf.-Rgt. 'Großdeutschland'"
  GER_gd_regt_mot:0 "Form the Inf.-Rgt(mot.) 'Großdeutschland'"
+ GER_gd_regt_mot_art_sup:0 "Expand support-units on  Inf.-Regt(mot.) 'GD'"
+ GER_gd_regt_mot_art_sup_desc:0 "The Regiment Grossdeutschland received several support-units including heavy-artillery support."
+ GER_gd_div_42:0 "Expand and refit to Infanterie-Division 'Grossdeutschland'"
+ GER_gd_div_42_desc:0 "Originally formed in 1921 it was known as the Wachregiment Berlin and served as a ceremonial guard unit and by the 1939 had grown into a regiment of the combined Wehrmacht German armed forces. The regiment would later be expanded and renamed Infantry Division Großdeutschland in 1942, and after significant reorganization was renamed Panzergrenadier Division Großdeutschland in May 1943. In November 1944, while the division retained its status as a panzergrenadier division, some of its subordinate units were expanded to divisional status, and the whole group of divisions were reorganized as Panzerkorps Großdeutschland."
+ GER_gd_div_43:0 "Refit and reorganized into Panzergrenadier-Division 'Grossdeutschland'"
+ GER_gd_div_43_desc:0 "In 19 May 1943, with the addition of armoured personnel carriers and Tigers the division was redesignated Panzer Grenadier Division Großdeutschland, though in reality it now had more armoured vehicles than most full strength panzer divisions."
+ 
+ 
  #GER Inf.Divisions
  GER_44_inf_div:0 "Form the 44. Infanterie-Division"
  GER_45_inf_div:0 "Form the 45. Infanterie-Division"
@@ -43,6 +53,8 @@
  GER_1_kav_div:0 "Form the 1. Kavalerie-Division"
  #GER Mot. Inf.Divisions
  GER_motorise_2_infdiv:0 "Motorise the 2. Infanterie-Division"
+ GER_motorise_3_infdiv:0 "Motorise the 3. Infanterie-Division"
+ GER_motorise_10_infdiv:0 "Motorise the 10. Infanterie-Division"
  GER_motorise_13_infdiv:0 "Motorise the 13. Infanterie-Division"
  GER_motorise_16_infdiv:0 "Motorise the 16. Infanterie-Division"
  GER_motorise_20_infdiv:0 "Motorise the 20. Infanterie-Division"
@@ -90,9 +102,14 @@
  GER_forming_11_pzdiv:0 "Form the 11. Panzer-Division"
  GER_forming_11_pzdiv_desc:0 "Fitting the 11. Pz-Div with Pz-III and Pz-IV btls"
  GER_forming_12_pzdiv:0 "Form the 12. Panzer-Division"
+ GER_forming_12_pzdiv_desc:0 "The 12. Panzer-Division was an armoured division in the German Army, the Wehrmacht, during World War II, established in 1940.\nIn October 1940 the 2. Infanterie-Division was reorganized as the 12. Panzer-Division and in June 1941 it joined Operation Barbarossa fighting in the battles of Minsk and Smolensk. It fought the rest of the war on the Eastern Front and surrendered to the Red Army in the Courland Pocket in May 1945."
  GER_forming_13_pzdiv:0 "Form the 13. Panzer-Division"
- GER_forming_13_pzdiv_desc:0 "The 13. Panzer_Division was an armoured division in the German Army, the Wehrmacht, during World War II, established in 1940.The division was originally formed as an infantry division in 1934. In 1937 it was motorized and named the 13. Infanterie-Division(mot.) which participated in the campaigns against Poland (1939) and western Europe (1940). Following the Fall of France in June 1940, the division was reorganized as the 13. Panzer-Division. It participated in Operation Barbarossa (the invasion of the USSR) in 1941 and the advance on the Caucasus in 1942. The division suffered heavy losses in the retreats of 1943 and 1944. It was partially refitted in Hungary, where it was encircled and destroyed by Allied forces in the winter of 1944-1945. The formation was reformed as Panzer-Division Feldherrnhalle 2 in the spring of 1945 and surrendered in May 1945."
+ GER_forming_13_pzdiv_desc:0 "The 13. Panzer-Division was formed in Vienna on 11th Oct0ber 1940. It mainly used elements from the 13. Infanterie-Division(mot.). The original 13. Infanterie-Division was formed in October 1935. It was converted to the 13. Inf.-Div.(mot.) in the winter of 1936-1937, with the 33., 66. and 93. Infanterie-Regiment(mot.) and the 13. Artillery-Regiment(mot.).It fought with distinction in both the Polish and French campaigns.The 13. Inf.-Div.(mot.) returned to Vienna in fall of 1940; a very experienced combat unit and ideally suited to become the 'new' 13. Panzer-Division.\nIn October 1940 the experienced 4. Pz-Regt(with 2 Pz.-Btls) was detached from the 2. Panzer-Division and assigned to 13. Panzer-Division.\n§CThis decision will start an events to reorganize the 2. Pz.-Div and form the 13. Pz.-Div.§!"
+ GER_forming_14_pzdiv:0 "Form the 14. Panzer-Division"
+ GER_forming_14_pzdiv_desc:0 "The 14. Panzer_Division was first formed on 15th August 1940 in the vicinty of Dresden which means it actually predated the 12. and 13. Pz.-Div's. Most of the Division cam from the 4. Infanterie-Division, which was a Reichswehr unit going back to 1921 in Dresden. The 4. Inf.-Div. contained the 10., 52. and 103. Inf.-Regiment and fought well in both the Polish and the French campaigns. From august to november 1940 it was reorganised and trained as the 14. Panzer-Division. In the process it received the experienced 36. Pz-Regiment (with 2 Pz.-Btl's), detached from the 4. Pz.-Div. In addition, the new 14. Schützen-Brigade HQ was added to control the 103. and the 108. Schützen-Regiment and the 64. Kradschützen Battalion and several divisional support unit in accordance the 1941 Panzer Division TOEs.\n§CThis decision will start an events to reorganize the 4. Pz.-Div and form the 14. Pz.-Div.§!"
  GER_forming_24_pzdiv:0 "Form the 24. Panzer-Division"
+ GER_forming_24_pzdiv_desc:0 "The 24. Panzer-Division was formed in late 1941 from the 1. Kavalrie-Division based at Königsberg.\nThe division fought on the Eastern Front from June 1942 to January 1943, when it was destroyed in the battle of Stalingrad. Reformed it once more returned to the Eastern Front in late 1943 and remained there until surrender to Soviet forces in May 1945."
+
  ### GER SS LSSAH
  GER_wach_btl_LSSAH:0 "Wach Battalion 'LSSAH'"
  GER_wach_btl_LSSAH_desc:0 "The Leibstandarte SS Adolf Hitler (LSSAH) was founded in September 1933 as Adolf Hitler's personal bodyguard formation. It was given the title Leibstandarte Adolf Hitler (LAH) in November, 1933. On 13 April 1934, by order of Himmler, the regiment became known as the Leibstandarte SS Adolf Hitler (LSSAH). In 1939 the LSSAH became a separate unit of the Waffen-SS aside the SS-TV and the SS-VT. \n"
@@ -532,6 +549,10 @@
  demonise_opponents_desc:0 "Using the Press to show the true nature of those who oppose us brings a higher level of support from the home front"
  assured_victory:0 "Assurance of Victory"
  assured_victory_desc:0 "Our people must know that our victory is inevitable"
+ stabilty_lowers_dissent:0 "Give Token Reforms"
+ stabilty_lowers_dissent_desc:0 "Although the vast majority of our populace is happy and content there are those among us that work against the system, by giving some ground (at least symbolically) we can quell the dissent"
+ support_lowers_dissent:0 "Give Token Army Reforms"
+ stabilty_lowers_dissent_desc:0 "Although the vast majority of our armed forces are happy and content there are those among us that work against the system, by giving some ground (at least symbolically) we can quell the dissent"
  
  bravado_hold:0 "Bravado"
  bravado_hold_desc:0 "This is not defeat, this is a tactical retreat! \n §G While this decision is active your generals will not decrease their skill trait when loosing battles.§!"
