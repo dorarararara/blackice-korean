@@ -64,7 +64,8 @@
  jet_mr_fighter_equipment:0 "Jet Multi-Role"
  jet_mr_fighter_equipment_desc:0 "Multi-Role Fighters can intercept and ground attack."
  cas:1 "Close Air Support"
- CAS_equipment_desc:0 "Close Air Support planes are designed to provide support in land combat."
+ as_equipment:1 "Close Air Support"
+ as_equipment_desc:0 "Close Air Support planes are designed to provide support in land combat."
  cv_cas:1 "Carrier CAS"
  cv_CAS_equipment:0 "Carrier CAS"
  cv_CAS_equipment_desc:0 "Carrier capable Close Air Support planes are designed to provide support in land combat."
@@ -111,8 +112,8 @@
  light_bomber_equipment:0 "Light Bomber"
  light_bomber_equipment_desc:0 "Light Bombers are light bombers."
  strat_bomber_equipment:0 "Strategic Bomber"
- rocket_interceptor_equipment:0 "Rocket Interceptor"
- rocket_interceptor_equipment_desc:0 "Short range interceptor powered by a chemical rocket engine."
+ rocket_interceptor_equipment:5 "Rocket Interceptor"
+ rocket_interceptor_equipment_desc:5 "Short range interceptor powered by a chemical rocket engine."
  fighter_alt_equipment_0:0 "Interwar Fighter"
  fighter_equipment_1933:0 "Fighter 1933"
  fighter_equipment_1933_short:0 "Fighter 1933"
@@ -321,7 +322,7 @@
  
  jet_cas_equipment:0 "Jet Close Air Support"
 
-
+ scout_plane_equipment:0 "Scout Aircraft"
  #Argentina
  ARG_heavy_fighter_equipment_1944:0 "I.Ae 30 Nancu P1"
  ARG_heavy_fighter_equipment_1944_short:0 "Nancu P1"
@@ -587,9 +588,9 @@
  hawker_hornet_equipment_1_desc:0 "Fighters are aircraft designed to destroy enemy aircraft. They can also provide limited support against enemy ships and troops."
  armstrong_aw16_equipment_1:0 "A.W. 16"
  armstrong_aw16_equipment_1_short:0 "A.W. 16 Fighter"
- armstrong_scimitar_equipment_1:0 "Supermarine Scimitar"
+ armstrong_scimitar_equipment_1:0 "Armstrong Whitworth A.W.35 Scimitar"
  armstrong_scimitar_equipment_1_short:0 "Scimitar Fighter"
- armstrong_scimitar_equipment_1_desc:0 "Development of the earlier A.W. 16 fighter. Small numbers produced for export."
+ armstrong_scimitar_equipment_1_desc:0 "Unit Type: Fighter\n\n The A.W.35 Scimitar was further development of an earlier biplane fighter, the A.W.16. The aircraft was powered by Armstrong Siddeley Panther 14-cylinder radial engine with 735 horsepower and had a lowered nose decking and enlarged fin and rudder compared to the A.W.16. The design was licensed to Norway, which cancelled the contract when the plane was found unsuitable for operations on skis."
  bristol_bulldog_equipment_1:0 "Bristol Bulldog II"
  bristol_bulldog_equipment_1_short:0 "Bulldog II Interceptor"
  bristol_bulldog_equipment_2:0 "Bristol Bulldog IV"
