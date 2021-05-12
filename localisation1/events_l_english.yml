@@ -2,6 +2,9 @@
  germany.4.t:0 "안슐루스"
  germany.4.d:0 "오스트리아에서 반복되는 봉기는, 오스트리아 국민들이 우리 제국과 하나가 되기를 원한다는 것을 명백하게 보여주고 있습니다. 이에대해 조치를 취할 때가 왔고 드디어 그들이 원하는 바가 이루어 질 때입니다."
  germany.4.a:0 "누가 감히 오스트리아가 독일이 아니라고 말할 수 있겠는가!?"
+ germany.3.t:0 "Further improvements to the Autobahn"
+ germany.3.d:0 "Since its inception in 1933, the autobahn project has been a glorious success. The construction efforts have reduced unemployment, and the wide roads stand as a monument to Germany's economic recovery. Much work remains to be done, however."
+ germany.3.a:0 "Excellent"
  germany.5.t:0 "방공협정"
  germany.5.d:1 "독일은 정부 전복과 폭력을 수반해서라도 세계에 공산주의를 확산시킨다는 코민테른의 목표에 대응하기 위한 조약을 발의하였습니다. 이 조약을 체결함으로써 우리는 공산주의자의 위협에 관한 정보를 공유하고 그러한 위협에 맞선 긴밀한 협력을 하는 데에 동의하게 됩니다."
  germany.5.a:0 "참여한다"
@@ -486,7 +489,7 @@
  spain.32.b:0 "We don't want to cause trouble..."
  spain.33.t:0 "France supports the Spanish Republic!"
  spain.33.d:0 "News from Paris! The French have discovered our suppoort for Nationalist Spain and they are sending supplies to the Republic. We could attack France, and we are sure the British won't interviene. But we are still too weak to attempt anything..."
- spain.33.a:0 "To war!"
+ spain.33.a:0 "It doesnt matter"
  spain.33.b:0 "Bad luck..."
  spain.34.t:0 "France supports us!"
  spain.34.d:0 "Weapons arrive from France! It's clear that the world's democracies support us, a fact that will weaken the powerful socialists."
@@ -1610,6 +1613,7 @@
  news.36.b:0 "Welcome to the Reich!"
  news.36.c:0 "We must secure our northern borders!"
  news.36.e:0 "This violates the Versailles Treaty!"
+ news.36.f:0 "We object in the strongest possible terms!"
  news.37.t:0 "The Assassination of Leon Trotsky"
  news.37.d:0 "Leon Trotsky, once the top lieutenant and heir presumptive of Vladimir Ilyich Lenin, died today in a Mexico City hospital. He was attacked in his home with an ice axe by a Spanish national believed to have been in the employ of the NKVD.\n\nAfter a failed power struggle with Joseph Stalin and his allies for control of the Communist Party of the Soviet Union, Trotsky spent the thirties in exile, living in Turkey, France and Norway before finally settling in Mexico. \n\nHe remained a constant critic of Stalin and the 'degenerated 'workers' state' of the Soviet Union"
  news.37.a:0 "Barbaric."
@@ -3820,3 +3824,27 @@
  CLAIM_CHANGE_TT:0 "Gains claims on mentioned §YStates§!\n"
  SOV_eastern_front_initiative:0 "Eastern Front Initiative"
  GER_eastern_front_initiative:0 "Eastern Front Initiative"
+ 
+#SOUTH AMERICANS COUNTRIES
+ generic.56.t:0 "South America joins the war "
+ generic.56.desc:0 "it's time for south americans to chose if they want to fight this war, and the side they want to join"
+ generic.56.a:0 "join Allies" 
+ generic.56.b:0 "join Axis Power" 
+ generic.56.c:0 "stay neutral"
+
+ generic.57.t:0 "Allies membership"
+ generic.57.desc:0 "England accepted us as a new Allies membership"
+ generic.57.a:0 "let's fight" 
+
+ generic.58.t:0 "Allies refuse"
+ generic.58.desc:0 "England refused us as a new Allies power"
+ generic.58.a:0 "what a shame" 
+
+ generic.59.t:0 "Axis membership"
+ generic.59.desc:0 "Germany accepted us as a new Allies membership"
+ generic.59.a:0 "let's fight" 
+
+ generic.60.t:0 "Axis refuse"
+ generic.60.desc:0 "Germany refused us as a new Axis power"
+ generic.60.a:0 "what a shame" 
+#
