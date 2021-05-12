@@ -949,12 +949,14 @@
  ENG_nrm_support_capital_HAA_1:0 "2pdr Mk II Cannon"
  ENG_nrm_support_capital_HAA_2:0 "2pdr Mk VIII Cannon"
  ENG_nrm_support_capital_HAA_3:0 "40mm/56 Bofors Cannon"
- ENG_nrm_support_capital_HAA_4:0 "3in/50RF Autoloading Cannon"
+ ENG_nrm_support_capital_HAA_4:0 "40mm/56 Bofors Cannon (Many)"
+ ENG_nrm_support_capital_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  ENG_nrm_support_capital_HAA_1_desc:0 ""
  ENG_nrm_support_capital_HAA_2_desc:0 ""
  ENG_nrm_support_capital_HAA_3_desc:0 ""
  ENG_nrm_support_capital_HAA_4_desc:0 ""
+ ENG_nrm_support_capital_HAA_5_desc:0 ""
 
  ENG_nrm_support_capital_FP_1:0 "Floatplane Catapult & Hangar"
  ENG_nrm_support_capital_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1008,12 +1010,14 @@
  ENG_nrm_support_cruiser_HAA_1:0 "2pdr Mk II Cannon"
  ENG_nrm_support_cruiser_HAA_2:0 "2pdr Mk VIII Cannon"
  ENG_nrm_support_cruiser_HAA_3:0 "40mm/56 Bofors Cannon"
- ENG_nrm_support_cruiser_HAA_4:0 "3in/50RF Autoloading Cannon"
+ ENG_nrm_support_cruiser_HAA_4:0 "40mm/56 Bofors Cannon (Many)"
+ ENG_nrm_support_cruiser_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  ENG_nrm_support_cruiser_HAA_1_desc:0 ""
  ENG_nrm_support_cruiser_HAA_2_desc:0 ""
  ENG_nrm_support_cruiser_HAA_3_desc:0 ""
  ENG_nrm_support_cruiser_HAA_4_desc:0 ""
+ ENG_nrm_support_cruiser_HAA_5_desc:0 ""
 
  ENG_nrm_support_cruiser_FP_1:0 "Floatplane Catapult & Hangar"
  ENG_nrm_support_cruiser_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1105,12 +1109,14 @@
  ENG_nrm_support_destroyer_HAA_1:0 "2pdr Mk II Cannon"
  ENG_nrm_support_destroyer_HAA_2:0 "2pdr Mk VIII Cannon"
  ENG_nrm_support_destroyer_HAA_3:0 "40mm/56 Bofors Cannon"
- ENG_nrm_support_destroyer_HAA_4:0 "3in/50RF Autoloading Cannon"
+ ENG_nrm_support_destroyer_HAA_4:0 "40mm/56 Bofors Cannon (Many)"
+ ENG_nrm_support_destroyer_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  ENG_nrm_support_destroyer_HAA_1_desc:0 ""
  ENG_nrm_support_destroyer_HAA_2_desc:0 ""
  ENG_nrm_support_destroyer_HAA_3_desc:0 ""
  ENG_nrm_support_destroyer_HAA_4_desc:0 ""
+ ENG_nrm_support_destroyer_HAA_5_desc:0 ""
 
  ENG_nrm_support_destroyer_ASW_1:0 "Type D DC Rack"
  ENG_nrm_support_destroyer_ASW_2:0 "Mark VII DC Rack & Thrower"
