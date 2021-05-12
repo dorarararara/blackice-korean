@@ -946,15 +946,17 @@
  USA_nrm_support_capital_AA_3_desc:0 ""
  USA_nrm_support_capital_AA_4_desc:0 ""
  
- USA_nrm_support_capital_HAA_1:0 "1.1in/75 Mk1/2 Cannon"
- USA_nrm_support_capital_HAA_2:0 "40mm/56 Mk1/2 Cannon"
- USA_nrm_support_capital_HAA_3:0 "40mm/56 Mk1/2 Cannon (Many)"
- USA_nrm_support_capital_HAA_4:0 "3in/50RF Autoloading Cannon"
+ USA_nrm_support_capital_HAA_1:0 "1pdr AA Cannon"
+ USA_nrm_support_capital_HAA_2:0 "1.1in/75 Mk1 Cannon"
+ USA_nrm_support_capital_HAA_3:0 "40mm/56 Mk1/2 Cannon"
+ USA_nrm_support_capital_HAA_4:0 "40mm/56 Mk1/2 Cannon (Many)"
+ USA_nrm_support_capital_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  USA_nrm_support_capital_HAA_1_desc:0 ""
  USA_nrm_support_capital_HAA_2_desc:0 ""
  USA_nrm_support_capital_HAA_3_desc:0 ""
  USA_nrm_support_capital_HAA_4_desc:0 ""
+ USA_nrm_support_capital_HAA_5_desc:0 ""
 
  USA_nrm_support_capital_FP_1:0 "Floatplane Catapult & Hangar"
  USA_nrm_support_capital_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1005,15 +1007,17 @@
  USA_nrm_support_cruiser_AA_3_desc:0 ""
  USA_nrm_support_cruiser_AA_4_desc:0 ""
  
- USA_nrm_support_cruiser_HAA_1:0 "1.1in/75 Mk1/2 Cannon"
- USA_nrm_support_cruiser_HAA_2:0 "40mm/56 Mk1/2 Cannon"
- USA_nrm_support_cruiser_HAA_3:0 "40mm/56 Mk1/2 Cannon (Many)"
- USA_nrm_support_cruiser_HAA_4:0 "3in/50RF Autoloading Cannon"
+ USA_nrm_support_cruiser_HAA_1:0 "1pdr AA Cannon"
+ USA_nrm_support_cruiser_HAA_2:0 "1.1in/75 Mk1 Cannon"
+ USA_nrm_support_cruiser_HAA_3:0 "40mm/56 Mk1/2 Cannon"
+ USA_nrm_support_cruiser_HAA_4:0 "40mm/56 Mk1/2 Cannon (Many)"
+ USA_nrm_support_cruiser_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  USA_nrm_support_cruiser_HAA_1_desc:0 ""
  USA_nrm_support_cruiser_HAA_2_desc:0 ""
  USA_nrm_support_cruiser_HAA_3_desc:0 ""
  USA_nrm_support_cruiser_HAA_4_desc:0 ""
+ USA_nrm_support_cruiser_HAA_5_desc:0 ""
 
  USA_nrm_support_cruiser_FP_1:0 "Floatplane Catapult & Hangar"
  USA_nrm_support_cruiser_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1102,15 +1106,17 @@
  USA_nrm_support_destroyer_AA_3_desc:0 ""
  USA_nrm_support_destroyer_AA_4_desc:0 ""
  
- USA_nrm_support_destroyer_HAA_1:0 "1.1in/75 Mk1/2 Cannon"
- USA_nrm_support_destroyer_HAA_2:0 "40mm/56 Mk1/2 Cannon"
- USA_nrm_support_destroyer_HAA_3:0 "40mm/56 Mk1/2 Cannon (Many)"
- USA_nrm_support_destroyer_HAA_4:0 "3in/50RF Autoloading Cannon"
+ USA_nrm_support_destroyer_HAA_1:0 "1pdr AA Cannon"
+ USA_nrm_support_destroyer_HAA_2:0 "1.1in/75 Mk1 Cannon"
+ USA_nrm_support_destroyer_HAA_3:0 "40mm/56 Mk1/2 Cannon"
+ USA_nrm_support_destroyer_HAA_4:0 "40mm/56 Mk1/2 Cannon (Many)"
+ USA_nrm_support_destroyer_HAA_5:0 "3in/50RF Autoloading Cannon"
  
  USA_nrm_support_destroyer_HAA_1_desc:0 ""
  USA_nrm_support_destroyer_HAA_2_desc:0 ""
  USA_nrm_support_destroyer_HAA_3_desc:0 ""
  USA_nrm_support_destroyer_HAA_4_desc:0 ""
+ USA_nrm_support_destroyer_HAA_5_desc:0 ""
 
  USA_nrm_support_destroyer_ASW_1:0 "Mk6 DC Rack"
  USA_nrm_support_destroyer_ASW_2:0 "Mk7 DC Rack & Thrower"
@@ -1244,7 +1250,7 @@
  USA_nrm_submarine_AA_2_desc:0 ""
  USA_nrm_submarine_AA_3_desc:0 ""
  
- USA_nrm_submarine_HAA_1:0 "1.1in/75 Mk1/2 Cannon"
+ USA_nrm_submarine_HAA_1:0 "1.1in/75 Mk1 Cannon"
  USA_nrm_submarine_HAA_2:0 "40mm/56 Mk1/2 Cannon"
  
  USA_nrm_submarine_HAA_1_desc:0 ""
