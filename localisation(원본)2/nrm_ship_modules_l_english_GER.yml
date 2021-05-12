@@ -949,12 +949,14 @@
  GER_nrm_support_capital_HAA_1:0 "3.7cm/83 C/30 Cannon (Few)"
  GER_nrm_support_capital_HAA_2:0 "3.7cm/83 C/30 Cannon"
  GER_nrm_support_capital_HAA_3:0 "3.7cm/69 M42 Cannon"
- GER_nrm_support_capital_HAA_4:0 "5.5cm/77 Autoloading Cannon"
+ GER_nrm_support_capital_HAA_4:0 "3.7cm/69 M42 Cannon (Many)"
+ GER_nrm_support_capital_HAA_5:0 "5.5cm/77 Autoloading Cannon"
  
  GER_nrm_support_capital_HAA_1_desc:0 ""
  GER_nrm_support_capital_HAA_2_desc:0 ""
  GER_nrm_support_capital_HAA_3_desc:0 ""
  GER_nrm_support_capital_HAA_4_desc:0 ""
+ GER_nrm_support_capital_HAA_5_desc:0 ""
 
  GER_nrm_support_capital_FP_1:0 "Floatplane Catapult & Hangar"
  GER_nrm_support_capital_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1008,12 +1010,14 @@
  GER_nrm_support_cruiser_HAA_1:0 "3.7cm/83 C/30 Cannon (Few)"
  GER_nrm_support_cruiser_HAA_2:0 "3.7cm/83 C/30 Cannon"
  GER_nrm_support_cruiser_HAA_3:0 "3.7cm/69 M42 Cannon"
- GER_nrm_support_cruiser_HAA_4:0 "5.5cm/77 Autoloading Cannon"
+ GER_nrm_support_cruiser_HAA_4:0 "3.7cm/69 M42 Cannon (Many)"
+ GER_nrm_support_cruiser_HAA_5:0 "5.5cm/77 Autoloading Cannon"
  
  GER_nrm_support_cruiser_HAA_1_desc:0 ""
  GER_nrm_support_cruiser_HAA_2_desc:0 ""
  GER_nrm_support_cruiser_HAA_3_desc:0 ""
  GER_nrm_support_cruiser_HAA_4_desc:0 ""
+ GER_nrm_support_cruiser_HAA_5_desc:0 ""
 
  GER_nrm_support_cruiser_FP_1:0 "Floatplane Catapult & Hangar"
  GER_nrm_support_cruiser_FP_2:0 "Floatplane Catapult & Hangar (Improved)"
@@ -1105,12 +1109,14 @@
  GER_nrm_support_destroyer_HAA_1:0 "3.7cm/83 C/30 Cannon (Few)"
  GER_nrm_support_destroyer_HAA_2:0 "3.7cm/83 C/30 Cannon"
  GER_nrm_support_destroyer_HAA_3:0 "3.7cm/69 M42 Cannon"
- GER_nrm_support_destroyer_HAA_4:0 "5.5cm/77 Autoloading Cannon"
+ GER_nrm_support_destroyer_HAA_4:0 "3.7cm/69 M42 Cannon (Many)"
+ GER_nrm_support_destroyer_HAA_5:0 "5.5cm/77 Autoloading Cannon"
  
  GER_nrm_support_destroyer_HAA_1_desc:0 ""
  GER_nrm_support_destroyer_HAA_2_desc:0 ""
  GER_nrm_support_destroyer_HAA_3_desc:0 ""
  GER_nrm_support_destroyer_HAA_4_desc:0 ""
+ GER_nrm_support_destroyer_HAA_5_desc:0 ""
 
  GER_nrm_support_destroyer_ASW_1:0 "WBD DC Rack"
  GER_nrm_support_destroyer_ASW_2:0 "WBG DC Rack & Thrower"
