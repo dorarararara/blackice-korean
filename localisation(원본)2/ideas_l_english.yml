@@ -416,6 +416,8 @@
  vasily_blucher:0 "Vasily Blücher"
  ivan_konev:0 "Ivan Konev"
  ivan_konev_desc:0 "According to Sergo Beria, Ivan Knoev has wicked little eyes, a shaved head that looks like a pumpkin and an expression full of self-conceit."
+ SPR_soviet_fuel:0 "Soviet Fuel"
+ SOV_spanish_fuel:0 "Fuel to Spanish Republic"
  SOV_nkmz:0 "Novokramatorsky Mashynobudivny Zavod"
  SOV_tbilisi:0 "Tbilisi Institute of Microbiology"
  SOV_amtorg:0 "Amtorg Trading Corporation"
@@ -2283,6 +2285,8 @@
  RAJ_tifr_desc:0 "Tata Institute for Fundamental Research"
  RAJ_engineer:0 "The Institution of Engineers"
  RAJ_saha_meghnad:0 "Meghnad Saha"
+ RAJ_freedom_champ:0 "Tiger of Freedom"
+ RAJ_freedom_champ_desc:0 "By extending more freedom to others we show our people we are worthy of more"
  PRC_generic_fascist_demagogue:0 "Luo Wu Sun"
  PRC_generic_democratic_reformer:0 "Tan Kenon"
  PRC_generic_communist_revolutionary:0 "Zhang Guotao"
@@ -2535,6 +2539,7 @@
  ETH_ras_kebbede:0 "Ras Kebbede"
  ETH_wondossen_kassa:0 "Wondossen Kassa"
  ETH_gabriel_zawde_gilaneh:0 "Gabriel Zawde Gilaneh"
+ ETH_domenico_mondelli:0 "Domenico Mondelli"
  PHI_generic_fascist_demagogue:0 "José P. Laurel"
  PHI_generic_democratic_reformer:0 "Elpidio Quirino"
  PHI_generic_communist_revolutionary:0 "Crisanto Evangelista"
@@ -3092,8 +3097,13 @@
  SOV_osip_piatnitsky:0 "Osip Piatnitsky"
  SOV_alexander_abramov_mirov:0 "Alexander Abramov-Mirov"
  USA_The_United_States_Army:0 "The United States Army"
+ USA_national_guard_mobilization:0 "Mobilize the National Guard"
  USA_office_price_administration_idea:1 "Office of Price Administration"
  USA_office_war_information_idea:0 "Office of War Information"
+ USA_consumer_economy:0 "Consumer Economy"
+ USA_beyond_reach:0 "Beyond Reach"
+ USA_beyond_reach_desc:0 "The United States is an ocean away from the rising tensions and any serious adversary.\n\nThis idea will be removed with more than §Y5%§! surrender progress."
+ USA_war_powers_act_idea:0 "War Powers Act"
  USA_navy_shock:0 "Naval Suprise Attack"
  USA_the_pentagon:5 "Pentagon"
  USA_adult_education_idea:0 "Adult Education Programs"
@@ -3250,6 +3260,7 @@
  reign_of_terror_desc:0 "Having recently come to power, the current regime is ruthless in the pursuit of its enemies, shutting down opposition before it arises."
  anti_german_military:0 "Anti-German Military"
  anti_german_military_desc:0 "Factions within the Yugoslavian Airforce are opposed to cooperating with Germany. They may attempt to overthrow the regime if the country opens their borders to or enters an alliance with the Third Reich."
+ YUG_prince_paul:0 "Prince Paul"
  anti_nazi_coup:0 "Anti-Nazi Coup"
  anti_nazi_coup_desc:0 "Having overthrown Prince Paul to prevent cooperation with Germany, the new regime oppose pro-fascist diplomacy."
  AST_indonesian_nationalists:0 "Indonesian Nationalists"
@@ -3636,6 +3647,10 @@
  medium_armor_production:0 "Medium Armor Production Focus"
  heavy_armor_production:0 "Heavy Armor Production Focus"
 
+ balanced_armor_production_short:0 "Balanced"
+ light_armor_production_short:0 "Light Armor"
+ medium_armor_production_short:0 "Medium Armor"
+ heavy_armor_production_short:0 "Heavy Armor"
 
  smallarmsfactory:0 "Small Arms and Infantry Equipment Factory ([?num_smallarms_factory])"
  smallarmsfactory_desc:0 ""
@@ -3649,6 +3664,10 @@
  secondary_smallarms_production:0 "Infantry Support Equipment Production Focus"
  support_smallarms_production:0 "Support Equipment Production Focus"
 
+ balanced_smallarms_production_short:0 "Balanced"
+ rifle_smallarms_production_short:0 "Rifle and HMG"
+ secondary_smallarms_production_short:0 "Infantry Support"
+ support_smallarms_production_short:0 "Support"
 
  truckfactory:0 "Vehicle Factory ([?num_vehicle_factory])"
  truckfactory_desc:0 ""
@@ -3660,6 +3679,9 @@
  light_vehicle_production:0 "Light Vehicle Production Focus"
  heavy_vehicle_production:0 "Heavy Vehicle Production Focus"
 
+ balanced_vehicle_production_short:0 "Balanced"
+ light_vehicle_production_short:0 "Light Vehicle"
+ heavy_vehicle_production_short:0 "Heavy Vehicle"
 
  artilleryfactory:0 "Artillery Factory ([?num_artillery_factory])"
  artilleryfactory_desc:0 ""
@@ -3675,6 +3697,12 @@
  heavy_artillery_production:0 "Heavy Artillery Production Focus"
  secondary_artillery_production:0 "Secondary Artillery Production Focus"
 
+ balanced_artillery_production_short:0 "Balanced"
+ light_artillery_production_short:0 "Light Artillery"
+ medium_artillery_production_short:0 "Medium Artillery"
+ heavy_artillery_production_short:0 "Heavy Artillery"
+ secondary_artillery_production_short:0 "Secondary Artillery"
+
  jetaircraftfactory:0 "Jet Aircraft Factory ([?num_jet_aircraft_factory])"
  jetaircraftfactory_desc:0 ""
 
@@ -3686,6 +3714,10 @@
  balanced_jet_production:0 "Balanced Aircraft Production Focus"
  light_jet_production:0 "Light Jet Production Focus"
  heavy_jet_production:0 "Heavy Jet Production Focus"
+ 
+ balanced_jet_production_short:0 "Balanced"
+ light_jet_production_short:0 "Light Jet"
+ heavy_jet_production_short:0 "Heavy Jet"
 
  ltaircraftfactory:0 "Light Aircraft Factory ([?num_light_aircraft_factory])"
  ltaircraftfactory_desc:0 ""
@@ -3705,6 +3737,12 @@
  CAS_production:0 "Close Air Support Production Focus"
  light_bomber_production:0 "Light Bomber Production Focus"
 
+ balanced_aircraft_production_short:0 "Balanced"
+ fighter_production_short:0 "Fighter"
+ hv_fighter_production_short:0 "Heavy Fighter"
+ CAS_production_short:0 "Close Air Support"
+ light_bomber_production_short:0 "Light Bomber"
+
 
  hvaircraftfactory:0 "Heavy Aircraft Factory ([?num_heavy_aircraft_factory])"
  hvaircraftfactory_desc:0 ""
@@ -3719,6 +3757,11 @@
  medium_bomber_production:0 "Medium Bomber Production Focus"
  heavy_bomber_production:0 "Strategic Bomber Production Focus"
  naval_bomber_production:0 "Naval Bomber Production Focus"
+
+ balanced_hv_aircraft_production_short:0 "Balanced"
+ medium_bomber_production_short:0 "Medium Bomber"
+ heavy_bomber_production_short:0 "Strategic Bomber"
+ naval_bomber_production_short:0 "Naval Bomber"
 
  shipyardfactory:0 "Shipyard ([?num_shipyard])"
  shipyardfactory_desc:0 ""
@@ -4365,6 +4408,7 @@
  FRA_war_opposition:0 "War Opposition"
  FRA_intervention_idea:0 "French Intervention"
  FRA_economic_recovery:0 "Economical Recovery"
+ FRA_increased_resistance:0 "Increased Resistance"
  FRA_five_year_plan:0 "French Five Year Plan"
  FRA_catholic_socialism:0 "Catholic Socialism"
  FRA_cgoc:0 "General Committee for the Organization of Commerce"
@@ -5102,18 +5146,25 @@
  GER_otto_ohlendorf:0 "Otto Ohlendorf"
  GER_alfred_naujocks:0 "Alfred Naujocks"
  GER_friedrich_jeckeln:0 "Friedrich Jeckeln"
- theorist_limit_2_tt:0 "Less than 2 Theorists of the same Branch (army/navy/air)"
- highcommand_limit_2_tt:0 "Less than 2 High Command of the same Branch (army/navy/air)"
+ th_army:0 "Less than §Y2§! Army Theorists"
+ th_air:0 "Less than §Y2§! Air Theorists"
+ th_navy:0 "Less than §Y2§! Navy Theorists"
+ hc_army:0 "Less than §Y2§! Army High Command"
+ hc_air:0 "Less than §Y2§! Air High Command"
+ hc_navy:0 "Less than §Y2§! Navy High Command"
  counterfeit_money:0 "Counterfeit Money"
  counterfeit_money_desc:0 "Large amounts of forged bank notes have made their way into circulation, removing them will take some time"
 
  has_army_chief_TT:0 "Has an §YArmy Chief§! assigned"
  has_air_chief_TT:0 "Has an §YAir Chief§! assigned"
  has_navy_chief_TT:0 "Has a §YNavy Chief§! assigned"
- very_low_civ_fuel_usage:0 "Minimal Civilian Fuel"
+ 
+ very_low_civ_fuel_usage:0 "Minimum Civilian Fuel"
+ normal_civ_fuel_usage:0 "Normal Civilian Fuel"
  low_civ_fuel_usage:0 "Low Civilian Fuel"
  medium_civ_fuel_usage:0 "High Civilian Fuel"
  high_civ_fuel_usage:0 "Extra Civilian Fuel"
+ 
  MTG_naval_treaty_adherent:0 "London Naval Treaty Signatory"
  kesago_nakajima:0 "Kesago Nakajima"
  EGY_huda:0 "Huda Sha'arawi"
