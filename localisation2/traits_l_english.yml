@@ -890,6 +890,7 @@
  resource_industrialist:0 "Resource Industrialist"
  military_entrepreneur:0 "Military Entrepreneur"
  technical_especialist:0 "Technical Specialist"
+ technocrat:0 "Technocrat"
  corrupt_kleptocrat:0 "Corrupt Kleptocrat"
  efficient_sociopath:0 "Efficient Sociopath"
  capitalist:0 "Laissez Faire Capitalist\n"
@@ -1279,6 +1280,7 @@
  grand_battlefleet_naval_manufacturer:0 "Grand Battlefleets"
  fleet_escort_naval_manufacturer:0 "Fleet Escorts"
  ger_submarine_raiding_naval_manufacturer:0 "U-boot Raiding"
+ ger_combined_raiding_naval_manufacturer:0 "Combined Raiding"
  usa_submarine_raiding_naval_manufacturer:0 "Submarine Raiding"
  surface_raider_naval_manufacturer:0 "Surface Raider"
  convoy_defense_naval_manufacturer:0 "Convoy Defense"
@@ -1583,4 +1585,9 @@
  political_manipulator_regency_council:0 "Filov heads the Regency Council"
  appeaser_regency_council:0 "Mushanov heads the Regency Council"
  
+ panzer_leader_TT:0 "Has any §YPanzer Leader§! trait"
+ trickster_TT:0 "Has any §YTrickster§! trait"
+ defensive_doctrine_TT:0 "Has any §YDefensive Doctrine§! trait"
+ offensive_doctrine_TT:0 "Has any §YOffensive Doctrine§! trait"
+ winter_specialist_TT:0 "Has any §YWinter Specialist§! trait"
 ### EOF ###
