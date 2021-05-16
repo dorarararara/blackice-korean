@@ -343,6 +343,13 @@
  AH_claims_galicia:0 "오스트리아-헝가리의 갈리치아 영유권 주장"
  AH_claims_bucovina:0 "오스트리아-헝가리의 부코비나 영유권 주장"
  AH_claims_empire:0 "과거의 제국을 되찾은 오스트리아-헝가리"
+ 
+ #Opinion Modifiers
+ same_type_group:0 "민주주의"
+ early_ENG_GER_relations:0 "좋은 영-독 관계"
+ hun_pact_against_us:0 "헝가리 확장에 대한 협정"
+ hun_worse_pact_against_us:0 "헝가리 확장에 대한 협약 체결"
+ anti_hungary:0 "헝가리 확장에 대비"
 
  #country flag:
  HUN_expansion:0 "헝가리 확장의 피해자"
@@ -588,13 +595,6 @@
  supreme_com_favors_army:0 "육군 중시"
  supreme_com_favors_navy:0 "해군 중시"
  supreme_com_favors_air:0 "공군 중시"
- supreme_com_political:0 "정치적 동기 부여"
- supreme_com_compromiser:0 "타협가" 
- rising_star:0 "떠오르는 별"
- average_politician_great_chemist:0 "평범한 정치인, 위대한 화학자"
- committed_pacifist:0 "열렬한 평화주의자"
- financier:0 "자본가"
-r:0 "공군 중시"
  supreme_com_political:0 "정치적 동기 부여"
  supreme_com_compromiser:0 "타협가" 
  rising_star:0 "떠오르는 별"
