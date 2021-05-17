@@ -2146,7 +2146,7 @@
  subtech_panzer_spaa_equipment_3_desc:0 "대공전차"
  subtech_panzer_spaa_equipment_4:0 "쿠겔블리츠"
  subtech_panzer_spaa_equipment_4_desc:0 "대공전차"
- subtech_flammpanzer_equipment_1:0 "플라밍고
+ subtech_flammpanzer_equipment_1:0 "플라밍고"
  subtech_flammpanzer_equipment_1_desc:0 "화염방사전차"
  subtech_flammpanzer_equipment_2:0 "3호 화염방사 전차"
  subtech_flammpanzer_equipment_2_desc:0 "화염방사전차"
@@ -2609,7 +2609,7 @@
 
  ### ROYAL NAVY ### ### FBB TECH ###
 
- tech_rn_fbb:0 "Vanguard Class"
+ tech_rn_fbb:0 "뱅가드급"
 
  ### ROYAL NAVY ### ### CV(B) TECH ###
 
