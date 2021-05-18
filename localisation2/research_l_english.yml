@@ -2424,7 +2424,7 @@
  ### Surface Fleet TORPEDO tech
  ijn_interwar_torpedoes:0 "전간기 어뢰"
  ijn_interwar_torpedoes_desc:0 "Torpedoes continued to develop after the first world war, and most of the major nations in WW2 used torpedoes designed and first put into service in the 1920s and early 1930s"
- ijn_magnetic_detonators:0 "자기 신관
+ ijn_magnetic_detonators:0 "자기 신관"
  ijn_magnetic_detonators_desc:0 "While initially quite unreliable, once they had been refined magnetic detonators made torpedoes more effective."
  ijn_electric_torpedoes:0 "자기 어뢰"
  ijn_electric_torpedoes_desc:0 "Quieter and leaving far less wake (making it harder for the target to see the incoming danger), electric torpedoes were another significant step forward in torpedo technology."
@@ -3751,7 +3751,7 @@
  schools_work5:0 "학교 V"
  schools_work5_desc:0 "The future of efficient construction will require more extensive planning for individual projects as well as standardized solutions wherever possible for our scholing and training-centre for the military so they can teach, learn and train the soldiers most efficiently."
  ### Shipradar techs
- small_ship_radar:0 "국축함과 다른 소형 함선에 레이더 장착"
+ small_ship_radar:0 "구축함과 다른 소형 함선에 레이더 장착"
  small_ship_radar_desc:0 "Finding enemy fleets or aeroplanes at sea is always difficult. New RADAR devices offer our destroyers and other small ships the chance to detect the enemy at long ranges and engage or avoid them as we see fit. Researching this RADAR device will mean we can upgrade our destroyers and frigates and give them a better chance at spotting ships, submarines and aircraft."
  medium_ship_radar:0 "모든 순양함에 레이더 장착"
  medium_ship_radar_desc:0 "Finding enemy fleets or aeroplanes at sea is always difficult. New RADAR devices offer our cruisers the chance to detect the enemy at long ranges and engage or avoid them as we see fit. Researching this RADAR device will mean we can upgrade our cruisers and light-carriërs to give them a better chance at spotting ships and aircraft."
@@ -3858,7 +3858,7 @@
  NAVAL_TITLE_ARMORED_CARRIERS:0 "장갑항공모함"
  NAVAL_TITLE_LIGHT_CARRIERS:0 "경항공모함"
  NAVAL_TITLE_ESCORT_CARRIERS:0 "호위항공모함"
- NAVAL_TITLE_SUBMARINES_COASTAL:0 "연안 잠수함""
+ NAVAL_TITLE_SUBMARINES_COASTAL:0 "연안 잠수함"
  NAVAL_TITLE_AA_TECHNOLOGY:0 "대공 체계"
  NAVAL_TITLE_RADAR_TECHNOLOGY:0 "해상 레이더"
  NAVAL_TITLE_ASW_TECHNOLOGY:0 "대잠전"
@@ -4325,7 +4325,7 @@
  strongpoint_focus_desc:0 "While our forces on the defense must always be ready to move around as the situation demands, nevertheless there are benefits to be had by "
  tactical_withdrawal_desc:0 "Losing ground is an acceptable exchange for a better position to defend from at a tactical level: keep men, lose land - land can be taken again."
  improved_combined_doc:0 "향상된 복합 무장 중점"
- improved_combined_doc_desc:0 "향상된 복합 무기 중점"
+ improved_combined_doc_desc:0 "향상된 복합 무장 중점"
  operational_support_desc:0 "지원 작전"
  medicine_doctrine_desc:0 "중대급 전투 의무관"
  combat_medicine_desc:0 "향상된 전투 의학"
