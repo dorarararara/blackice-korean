@@ -1,9 +1,0 @@
-﻿l_english:
- is_controlled_by_ROOT_or_ally:0 "§H[Root.GetNameDef]§! 또는 그들의 동맹 중 하나에 의해 통제 중입니다."
- is_controlled_by_PREV_or_ally:0 "§H[Prev.GetNameDef]§! 또는 그들의 동맹 중 하나에 의해 통제 중입니다."
- is_controlled_by_ROOT_or_subject:0 "§H[Root.GetNameDef]§! 또는 그들의 동맹 중 하나에 의해 통제 중입니다."
- is_controlled_by_PREV_or_subject:0 "§H[Prev.GetNameDef]§! 또는 그들의 동맹 중 하나에 의해 통제 중입니다."
- is_owned_by_ROOT_or_ally:0 "§H[Root.GetNameDef]§!가 소유하거나 그 동맹국이 소유함."
- is_owned_by_PREV_or_ally:0 "§H[Prev.GetNameDef]§!가 소유하거나 그 동맹국이 소유함."
- is_owned_by_ROOT_or_subject:0 "§H[Root.GetNameDef]§!가 소유하거나 그 종속국이 소유함."
- is_owned_by_PREV_or_subject:0 "§H[Prev.GetNameDef]§!가 소유하거나 그 종속국이 소유함."
