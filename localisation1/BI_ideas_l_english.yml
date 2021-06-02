@@ -103,7 +103,7 @@
 
  normal_difficulty_AI:0 "보통 난이도"
  cadet_training_standards:0 "훈련 표준"
- training_standards:0 "훈련 수준"
+ training_standards:0 "훈련 기준"
  train_none:0 "소총과 감자 교리"
  train_low:0 "낮은 수준"
  train_medium:0 "보통 수준"
@@ -393,7 +393,7 @@
  hans_jurgen_von_blumenthal:0 "한스-위르겐 폰 블루멘탈"
  blumenthal_political:0 "한스-위르겐 폰 블루멘탈"
  ulrich_von_hassell:0 "울리히 폰 하셀"
- alfred_hugenberg:0 알프레트 후겐베르크"
+ alfred_hugenberg:0 "알프레트 후겐베르크"
  fritz_thyssen:0 "프리츠 티센"
  paul_lejeune_jung:0 "파울 레위네-융"
  johannes_popitz:0 "요하네스 포피츠"
