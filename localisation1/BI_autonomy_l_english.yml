@@ -1,9 +1,9 @@
 ﻿l_english:
- autonomy_puppet:5 "Protectorate" #Puppet
- autonomy_integrated_puppet:5 "Territory" #Integrated Puppet
- autonomy_minor_warlord:5 "Warlord" 
- ITA_autonomy_reichskommissariat:5 "Governorate"
- ITA_autonomy_reichsprotectorate:5 "Commissionership"
- diplomatic_effort_autonomy:0 "Diplomatic Efforts"
+ autonomy_puppet:5 "보호령" #Puppet
+ autonomy_integrated_puppet:5 "준주" #Integrated Puppet
+ autonomy_minor_warlord:5 "군벌" 
+ ITA_autonomy_reichskommissariat:5 "총독부"
+ ITA_autonomy_reichsprotectorate:5 "위원의 지위"
+ diplomatic_effort_autonomy:0 "외교 주력"
  
 
