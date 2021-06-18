@@ -8,36 +8,36 @@
  BICE_checksum_desc:0 "Correct Checksum:"
  
  ### IMPORTANT ###
- BICE_STARTUP_TITLE:0 "3D Models"
- BICE_STARTUP_DESC:0 "We added 311 plane models for all Majors. Each aircraft has new propeller animation, historical amount of machineguns and different bombload (CAS, HV FIGHTER 500kg bomb animation, STRAT BOMBERS 5000kg bomb and others 2x1000kg bomb). We have increased the number of air scenes from 3 to 5 so now the sky is filled with planes to show true air combat!"
+ BICE_STARTUP_TITLE:0 "3D 모델"
+ BICE_STARTUP_DESC:0 "우리는 모든 주요국들을 위해 311개의 비행기 모델을 추가했습니다. 각 항공기에는 새로운 프로펠러 애니메이션, 역사적인 기관총 탑재량, 다양한 폭탄 적재량(근접항공지원기, 중전투기의 500kg 폭탄 애니메이션, 전랙 폭격기의 5000kg 폭탄 및 기타 2x1000kg 폭탄)이 있습니다. 우리는 공군 장면의 수를 3개에서 5개로 늘려서 이제 하늘이 비행기로 가득 차 진정한 공중전을 보여줍니다! "
  BICE_STARTUP_GENERAL_DESC:0 ""
  #LAND
- BICE_STARTUP_LAND_UPDATE_TITLE:0 "Historical Ship Designs"
- BICE_STARTUP_LAND_UPDATE_DESC:0 "For those who wish to use historical ships in their games, the historical ship designer allows you to easily select which class and which model to use. This UI is accessible by clicking on the golden ship button on the top right of the production screen. With the simple click of a button, a new design will be available to you in the ship designer. You are able to modify this design as you see fit, just like with any other design you have. In order to acquire the design, you must first fulfill all of the technology requirements shown in the tooltip of the design you wish to build, as well as the Naval XP requirements."
+ BICE_STARTUP_LAND_UPDATE_TITLE:0 "역사적 함선 설계"
+ BICE_STARTUP_LAND_UPDATE_DESC:0 "게임에서 역사적인 함선를 사용하고자 하는 사람들을 위해, 역사적 함선 설계사는 여러분이 어떤 급와 어떤 모델을 사용할지 쉽게 선택할 수 있게 해줍니다. 이 UI는 생산 화면 오른쪽 상단에 있는 황금색 함선 버튼을 클릭하여 접근할 수 있습니다. 버튼 클릭 한 번으로 함선 설계사에서 새로운 설계을 만나보실 수 있습니다. 다른 설계처럼 적합하게 이 설계를 수정할 수 있습니다. 설계를 취득하려면 먼저 건조하려는 설계의 툴팁에 표시된 모든 기술 요구 사항과 해군 경험치 요구 사항을 충족해야 합니다."
  #AIR
- BICE_STARTUP_AIR_UPDATE_TITLE:0 "Civilian Fuel"
- BICE_STARTUP_AIR_UPDATE_DESC:0 "Civilian Fuel has been changed from a passive fuel reduction to an active one. The fuel need per state is determined based on population and IC, which then gets used up from your Stockpile. This is enabled for Minor AIs as well to encourage trade."
+ BICE_STARTUP_AIR_UPDATE_TITLE:0 "민간 연료"
+ BICE_STARTUP_AIR_UPDATE_DESC:0 "민간 연료는 수동적인 연료 감소에서 능동적인 연료로 변경되었습니다. 주별 연료 요구량은 인구와 IC를 기준으로 결정되며, IC는 비축량에서 모두 사용됩니다. 이 기능은 약소국 AI에게도 적용되어 무역를 장려할 수 있습니다."
  #Former_version_text:0 "Aircraft and Air Combat has been extensively reworked. Data for every aircraft has been reviewed and adjusted based on common formulae for firepower, defence, agility and cost. Range/payload data has been adjusted based on typical ranges at specific loads. Air Combat values have been reworked to result in higher operational and combat losses. Air Tech Trees have been reviewed, in some cases reorganized, and cleaned up. The following new aircraft types were added; Light Fighter, Navy Multirole, Navy Interceptor, Carrier Multirole, Night Fighter, Heavy Naval Bomber, Naval Bomber (guided bombs). Transport aircraft models were added to countries without them."
  #NAVAL
- BICE_STARTUP_NAVY_UPDATE_TITLE:0 "Performance"
- BICE_STARTUP_NAVY_UPDATE_DESC:0 "We have done some extensive optimization to the most performance demanding code to hopefully increase the gamespeed. Results may vary of course, but especially the early and midgame should run faster now."
+ BICE_STARTUP_NAVY_UPDATE_TITLE:0 "성능"
+ BICE_STARTUP_NAVY_UPDATE_DESC:0 "우리는 게임 속도를 높이기 위해 가장 성능을 필요로 하는 코드에 대한 광범위한 최적화를 수행했습니다. 물론 결과는 다를 수 있지만 특히 게임 초반과 중반이 더 빨리 실행됩니다."
  #Politics
- BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "Balance"
- BICE_STARTUP_FOCUS_UPDATE_DESC:0 "There have been tons of balance changes to land units, the most notable example being every Armor Unit being majorly buffed in terms of cost effectiveness."
+ BICE_STARTUP_FOCUS_UPDATE_TITLE:0 "밸런스"
+ BICE_STARTUP_FOCUS_UPDATE_DESC:0 "지상 부대에 수많은 밸런스 변화가 있었는데, 가장 주목할 만한 예는 모든 기갑 부대가 비용 효율성 면에서 크게 강화되어 있다는 것입니다."
 
  #NATIONAL FOCUS 
  #BICE_STARTUP_FOCUS_UPDATE_DESC:0 "We have fixed several issues and tweaked some Nation Focusses for TUR, ENG, RAJ and HUN. We gave the generic NF some better options for human-control on micro-nations. We have reduced the continous air production focus bonuses."
  
  #EQUIPMENT
- BICE_STARTUP_EQUIPMENT_UPDATE_TITLE:0 "EQUIPMENT"
+ BICE_STARTUP_EQUIPMENT_UPDATE_TITLE:0 "장비"
  BICE_STARTUP_EQUIPMENT_UPDATE_DESC:0 "We standarized the training-time for armor. Moved Grille to the Pz38(t). Did some minor stats tweaks for armor. Reworked /corected several events for GER for like 24. Pz-Div, 72. Inf-Div, 13. Pz-Div. Fixed several bugs on equipment for Field Hospital, Maintenance Support, Mot Signal. Reduced line AC training time. Replaced the Coelian for the Wirbelwing ifor the Pzgren-Div Gross-Deutschland.Fixed Sherman Firefly events. Added transport-definition to tank-battalions. Changed starting unit-templates for SOV."
  
  #AI 
  BICE_STARTUP_AI_UPDATE_TITLE:0 "AI"
- BICE_STARTUP_AI_UPDATE_DESC:0 "Added in more template and strategy adjustments. Stopped the CHI AI from asking ENG to intervene. Added several GUIs to keep track of AI stuff. GER AI tweak for France Invasion. Ported an AI strat from vanilla about coordinating naval invasions for ENG USA and CAN.\nFor SOV AI:removed alternative Inf-templates; improved construction queque; doing fighter variants; AI-minister adjustments; deleted production lines and gave it a bonus to start efficiency for the first few weeks; increased role_ratio of inf; should keep some divs in reserve; etc. Overall we have tried to enhance the AI to be more of challenge and especially for the german player the SOV AI. This is only a small description of what the BICE team has done(esp Jack and Dr. Potato)."
+ BICE_STARTUP_AI_UPDATE_DESC:0 "더 많은 편제와 전략 조정이 추가되었습니다. 중국 AI가 영국에게 개입을 요청하지 못하도록 막았습니다. AI의 잡것들을 기록하기 위해 여러 GUI를 추가했습니다. 프랑스 침공을 위해 독일 AI를 조정했습니다. 영국, 미국 및 캐나다에 대한 해군 상륙을 조정하기 위해 바닐라에서 AI 전략을 이식했습니다.\n소련 AI의 경우:대체 보병편제 제거; 개선된 건설 대기열; 전투기 바리에이션; AI 장관 조정; 생산 라인을 삭제ㅇ와 처음 몇 주 동안 시작 효율성 보너스 제공; 보병의 역할 비율 증가; 일부 사단를 예비대로 유지; 등등. 전반적으로 우리는 AI가 더욱 도전적이 되도록, 특히 독일 플레이어들에게는 소련 AI를 강화하려고 노력해왔습니다. 이것은 BICE 팀이 한 일에 대한 작은 설명일 뿐입니다(특히 Jack과 Dr. Potato)."
  
  #MISC
- BICE_STARTUP_MISC_UPDATE_TITLE:0 "MISCELLANEOUS"
+ BICE_STARTUP_MISC_UPDATE_TITLE:0 "기타"
  BICE_STARTUP_MISC_UPDATE_DESC:0 "We have made some performance tweaks for ENG adresses USA conference. Big performance improvement. Possible fix for save error. Lowered FIELD_EXPERIENCE_SCALE, FIELD_EXPERIENCE_MAX_PER_DAY, AIR_WING_XP_LOSS_WHEN_KILLED in defines. We tried to fix map flickering issue."
  
  #FUTURE
